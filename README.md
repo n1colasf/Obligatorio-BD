@@ -12,6 +12,8 @@
 
 ### **Julio 2024**
 
+` Nota: xx/55 `
+
 <hr>
 
 ### Introducción
@@ -70,25 +72,25 @@ Hive, como lo modelaría, que tablas crearía y de que tipo (externas, internas)
 A continuación se muestra una tabla con los 17 datasets utilizados en el análisis de datos de la ciudad de Barcelona,
 junto con su nombre y enlace a su ubicación:
 
-| Nombre del dataset                    | Enlace                                                          | Dataset limpiado                            |
-|---------------------------------------|-----------------------------------------------------------------|---------------------------------------------|
-| Accidents 2017                        | [Enlace 1](/datasets/accidents_2017.csv)                        | [Nuevo 1](/new_datasets/accidents_2017.csv) |
-| Air quality Nov2017                   | [Enlace 2](/datasets/air_quality_Nov2017.csv)                   |                                             |
-| Air stations Nov2017                  | [Enlace 3](/datasets/air_stations_Nov2017.csv)                  |                                             |
-| Births                                | [Enlace 4](/datasets/births.csv)                                |                                             |
-| Bus stops                             | [Enlace 5](/datasets/bus_stops.csv)                             |                                             |
-| Deaths                                | [Enlace 6](/datasets/deaths.csv)                                |                                             |
-| Immigrants by nationality             | [Enlace 7](/datasets/immigrants_by_nationality.csv)             |                                             |
-| Immigrants emigrants by age           | [Enlace 8](/datasets/immigrants_emigrants_by_age.csv)           |                                             |
-| Immigrants emigrants by destination   | [Enlace 9](/datasets/immigrants_emigrants_by_destination.csv)   |                                             |
-| Immigrants emigrants by destination 2 | [Enlace 10](/datasets/immigrants_emigrants_by_destination2.csv) |                                             |
-| Immigrants emigrants by sex           | [Enlace 11](/datasets/immigrants_emigrants_by_sex.csv)          |                                             |
-| Life expectancy                       | [Enlace 12](/datasets/life_expectancy.csv)                      |                                             |
-| Most frequent baby names              | [Enlace 13](/datasets/most_frequent_baby_names.csv)             |                                             |
-| Most frequent names                   | [Enlace 14](/datasets/most_frequent_names.csv)                  |                                             |
-| Population                            | [Enlace 15](/datasets/population.csv)                           |                                             |
-| Transports                            | [Enlace 16](/datasets/transports.csv)                           |                                             |
-| Unemployment                          | [Enlace 17](/datasets/unemployment.csv)                         |                                             |
+| Nombre del dataset                    | Enlace                                                          | Dataset limpiado                                |
+|---------------------------------------|-----------------------------------------------------------------|-------------------------------------------------|
+| Accidents 2017                        | [Enlace 1](/datasets/accidents_2017.csv)                        | [Nuevo 1](/new_datasets/new_accidents_2017.csv) |
+| Air quality Nov2017                   | [Enlace 2](/datasets/air_quality_Nov2017.csv)                   |                                                 |
+| Air stations Nov2017                  | [Enlace 3](/datasets/air_stations_Nov2017.csv)                  |                                                 |
+| Births                                | [Enlace 4](/datasets/births.csv)                                |                                                 |
+| Bus stops                             | [Enlace 5](/datasets/bus_stops.csv)                             |                                                 |
+| Deaths                                | [Enlace 6](/datasets/deaths.csv)                                |                                                 |
+| Immigrants by nationality             | [Enlace 7](/datasets/immigrants_by_nationality.csv)             |                                                 |
+| Immigrants emigrants by age           | [Enlace 8](/datasets/immigrants_emigrants_by_age.csv)           |                                                 |
+| Immigrants emigrants by destination   | [Enlace 9](/datasets/immigrants_emigrants_by_destination.csv)   |                                                 |
+| Immigrants emigrants by destination 2 | [Enlace 10](/datasets/immigrants_emigrants_by_destination2.csv) |                                                 |
+| Immigrants emigrants by sex           | [Enlace 11](/datasets/immigrants_emigrants_by_sex.csv)          |                                                 |
+| Life expectancy                       | [Enlace 12](/datasets/life_expectancy.csv)                      |                                                 |
+| Most frequent baby names              | [Enlace 13](/datasets/most_frequent_baby_names.csv)             |                                                 |
+| Most frequent names                   | [Enlace 14](/datasets/most_frequent_names.csv)                  |                                                 |
+| Population                            | [Enlace 15](/datasets/population.csv)                           |                                                 |
+| Transports                            | [Enlace 16](/datasets/transports.csv)                           |                                                 |
+| Unemployment                          | [Enlace 17](/datasets/unemployment.csv)                         |                                                 |
 
 <br />
 <hr>
@@ -117,7 +119,7 @@ junto con su nombre y enlace a su ubicación:
 
 **Parte 2**
 
-[Ver Notebook de Análisis con Spark](/analisis/Parte%202.ipynb)
+[Ver Notebook de Análisis con Spark](/analisis/parte2_analisis_spark.ipynb)
 
 **Parte 3**
 
