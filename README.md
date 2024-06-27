@@ -97,12 +97,12 @@ junto con su nombre y enlace a su ubicación:
 
 ### Preguntas
 
-1.
-2.
-3.
-4.
-5.
-6.
+1. ¿Cuál es la relación entre las paradas de autobús y la densidad de población en diferentes barrios?
+2. ¿Cuál es la nacionalidad más común entre los inmigrantes en Barcelona?
+3. ¿cómo varía la cantidad de nacimientos por género con el tiempo en diferentes distritos y barrios de Barcelona?
+4. ¿Cuál es la relación entre la cantidad de accidentes y la densidad de población en diferentes barrios?
+5. ¿Cómo varía la esperanza de vida en diferentes barrios de Barcelona?
+6. ¿Cuál es la relación entre la cantidad de inmigrantes y los niveles de desempleo en diferentes barrios?
 7.
 8.
 
