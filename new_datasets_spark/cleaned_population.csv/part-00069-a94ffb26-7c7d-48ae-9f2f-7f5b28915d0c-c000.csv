@@ -1,0 +1,71 @@
+Year,District_Code,District_Name,Neighborhood_Code,Neighborhood_Name,Gender,Age,Number
+2017,7,Horta-Guinardó,36,la Font d'en Fargues,Male,20-24,215
+2014,7,Horta-Guinardó,35,el Guinardó,Male,10-14,552
+2013,8,Nou Barris,56,Vallbona,Female,25-29,30
+2016,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Male,75-79,601
+2013,10,Sant Martí,65,el Clot,Male,40-44,1108
+2016,3,Sants-Montjuïc,13,la Marina de Port,Male,0-4,659
+2016,9,Sant Andreu,59,el Bon Pastor,Male,70-74,186
+2013,3,Sants-Montjuïc,17,Sants - Badal,Female,55-59,940
+2017,8,Nou Barris,45,Porta,Male,60-64,442
+2016,7,Horta-Guinardó,39,Sant Genís dels Agudells,Male,75-79,149
+2015,9,Sant Andreu,57,la Trinitat Vella,Female,90-94,34
+2013,7,Horta-Guinardó,38,la Teixonera,Female,75-79,301
+2015,1,Ciutat Vella,3,la Barceloneta,Male,70-74,256
+2017,9,Sant Andreu,57,la Trinitat Vella,Male,50-54,293
+2016,2,Eixample,5,el Fort Pienc,Female,0-4,595
+2017,2,Eixample,10,Sant Antoni,Female,50-54,1350
+2014,10,Sant Martí,71,Provençals del Poblenou,Female,0-4,526
+2015,6,Gràcia,28,Vallcarca i els Penitents,Male,85-89,116
+2016,4,Les Corts,20,la Maternitat i Sant Ramon,Male,35-39,861
+2014,10,Sant Martí,72,Sant Martí de Provençals,Female,45-49,1014
+2014,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,30-34,179
+2015,9,Sant Andreu,63,Navas,Male,50-54,727
+2013,3,Sants-Montjuïc,18,Sants,Female,60-64,1213
+2016,9,Sant Andreu,60,Sant Andreu,Female,35-39,2474
+2013,7,Horta-Guinardó,38,la Teixonera,Female,45-49,439
+2014,7,Horta-Guinardó,38,la Teixonera,Male,30-34,444
+2016,1,Ciutat Vella,1,el Raval,Female,30-34,2206
+2015,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Male,30-34,651
+2014,3,Sants-Montjuïc,17,Sants - Badal,Male,25-29,868
+2013,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,10-14,299
+2017,7,Horta-Guinardó,37,el Carmel,Male,70-74,777
+2017,10,Sant Martí,70,el Besòs i el Maresme,Male,85-89,221
+2016,7,Horta-Guinardó,37,el Carmel,Female,85-89,389
+2017,7,Horta-Guinardó,36,la Font d'en Fargues,Female,70-74,229
+2015,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Male,60-64,482
+2016,8,Nou Barris,53,la Trinitat Nova,Male,20-24,158
+2013,10,Sant Martí,67,la Vila Olímpica del Poblenou,Female,20-24,215
+2017,1,Ciutat Vella,2,el Barri Gòtic,Male,80-84,118
+2015,7,Horta-Guinardó,35,el Guinardó,Female,60-64,1125
+2014,9,Sant Andreu,60,Sant Andreu,Male,0-4,1368
+2015,9,Sant Andreu,59,el Bon Pastor,Female,50-54,303
+2015,7,Horta-Guinardó,35,el Guinardó,Female,>=95,90
+2013,7,Horta-Guinardó,39,Sant Genís dels Agudells,Male,0-4,74
+2013,7,Horta-Guinardó,43,Horta,Male,85-89,209
+2016,2,Eixample,5,el Fort Pienc,Female,45-49,1068
+2016,2,Eixample,5,el Fort Pienc,Male,15-19,488
+2015,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,5-9,377
+2014,2,Eixample,10,Sant Antoni,Male,5-9,634
+2014,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Male,5-9,664
+2015,10,Sant Martí,73,la Verneda i la Pau,Male,55-59,814
+2017,7,Horta-Guinardó,43,Horta,Male,85-89,266
+2016,8,Nou Barris,56,Vallbona,Male,85-89,7
+2016,3,Sants-Montjuïc,15,Hostafrancs,Female,85-89,197
+2016,8,Nou Barris,53,la Trinitat Nova,Male,50-54,281
+2016,7,Horta-Guinardó,42,la Clota,Male,55-59,10
+2016,9,Sant Andreu,59,el Bon Pastor,Female,50-54,392
+2014,5,Sarrià-Sant Gervasi,24,les Tres Torres,Female,0-4,431
+2017,8,Nou Barris,47,Can Peguera,Male,65-69,44
+2017,7,Horta-Guinardó,42,la Clota,Male,85-89,5
+2017,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,25-29,1400
+2016,6,Gràcia,28,Vallcarca i els Penitents,Female,0-4,322
+2016,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Female,5-9,131
+2013,6,Gràcia,30,la Salut,Female,90-94,115
+2016,7,Horta-Guinardó,41,la Vall d'Hebron,Female,90-94,39
+2017,3,Sants-Montjuïc,13,la Marina de Port,Female,85-89,445
+2015,7,Horta-Guinardó,33,el Baix Guinardó,Female,70-74,750
+2016,8,Nou Barris,48,la Guineueta,Male,65-69,441
+2016,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Male,40-44,837
+2013,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Male,0-4,105
+2015,9,Sant Andreu,60,Sant Andreu,Female,>=95,113

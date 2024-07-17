@@ -1,0 +1,72 @@
+Year,District_Code,District_Name,Neighborhood_Code,Neighborhood_Name,Gender,Age,Number
+2016,7,Horta-Guinardó,36,la Font d'en Fargues,Male,45-49,205
+2014,8,Nou Barris,54,Torre Baró,Male,50-54,87
+2017,9,Sant Andreu,63,Navas,Male,20-24,518
+2016,1,Ciutat Vella,3,la Barceloneta,Female,40-44,559
+2015,2,Eixample,9,la Nova Esquerra de l'Eixample,Female,5-9,945
+2014,8,Nou Barris,47,Can Peguera,Female,40-44,72
+2013,9,Sant Andreu,63,Navas,Female,45-49,821
+2015,3,Sants-Montjuïc,13,la Marina de Port,Male,35-39,1180
+2017,8,Nou Barris,55,Ciutat Meridiana,Male,85-89,52
+2014,9,Sant Andreu,62,el Congrés i els Indians,Male,15-19,261
+2015,5,Sarrià-Sant Gervasi,24,les Tres Torres,Female,80-84,266
+2014,3,Sants-Montjuïc,14,la Font de la Guatlla,Female,50-54,286
+2014,9,Sant Andreu,58,Baró de Viver,Male,15-19,53
+2015,8,Nou Barris,52,la Prosperitat,Female,55-59,761
+2016,10,Sant Martí,72,Sant Martí de Provençals,Male,85-89,258
+2016,7,Horta-Guinardó,39,Sant Genís dels Agudells,Male,85-89,85
+2017,10,Sant Martí,64,el Camp de l'Arpa del Clot,Male,75-79,577
+2016,6,Gràcia,31,la Vila de Gràcia,Male,65-69,989
+2017,7,Horta-Guinardó,34,Can Baró,Female,0-4,150
+2016,7,Horta-Guinardó,34,Can Baró,Female,15-19,174
+2013,7,Horta-Guinardó,41,la Vall d'Hebron,Female,60-64,214
+2017,1,Ciutat Vella,3,la Barceloneta,Male,5-9,172
+2015,6,Gràcia,30,la Salut,Male,90-94,40
+2017,8,Nou Barris,50,les Roquetes,Female,20-24,441
+2015,3,Sants-Montjuïc,17,Sants - Badal,Female,20-24,624
+2013,7,Horta-Guinardó,37,el Carmel,Female,50-54,995
+2015,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Female,10-14,221
+2013,9,Sant Andreu,62,el Congrés i els Indians,Male,40-44,437
+2017,6,Gràcia,31,la Vila de Gràcia,Female,35-39,2782
+2013,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Male,65-69,675
+2017,10,Sant Martí,65,el Clot,Male,80-84,332
+2015,3,Sants-Montjuïc,18,Sants,Female,30-34,1863
+2014,8,Nou Barris,50,les Roquetes,Female,70-74,320
+2013,8,Nou Barris,55,Ciutat Meridiana,Female,25-29,347
+2015,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,30-34,198
+2017,9,Sant Andreu,58,Baró de Viver,Male,50-54,67
+2017,8,Nou Barris,46,el Turó de la Peira,Female,45-49,594
+2015,1,Ciutat Vella,2,el Barri Gòtic,Female,10-14,162
+2013,8,Nou Barris,54,Torre Baró,Male,75-79,25
+2016,1,Ciutat Vella,2,el Barri Gòtic,Female,55-59,405
+2014,7,Horta-Guinardó,41,la Vall d'Hebron,Female,60-64,193
+2015,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Female,60-64,994
+2013,8,Nou Barris,45,Porta,Female,40-44,984
+2013,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Female,>=95,92
+2015,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Female,35-39,1186
+2013,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Male,55-59,578
+2015,3,Sants-Montjuïc,17,Sants - Badal,Female,60-64,857
+2013,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Male,50-54,839
+2013,9,Sant Andreu,63,Navas,Female,55-59,760
+2016,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Male,40-44,641
+2013,8,Nou Barris,47,Can Peguera,Male,40-44,91
+2014,6,Gràcia,28,Vallcarca i els Penitents,Female,5-9,270
+2016,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Male,>=95,30
+2015,8,Nou Barris,47,Can Peguera,Female,45-49,95
+2014,8,Nou Barris,49,Canyelles,Female,60-64,302
+2015,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Female,55-59,1679
+2013,2,Eixample,7,la Dreta de l'Eixample,Male,40-44,1600
+2013,2,Eixample,5,el Fort Pienc,Female,50-54,952
+2015,1,Ciutat Vella,1,el Raval,Female,30-34,2330
+2014,3,Sants-Montjuïc,15,Hostafrancs,Male,75-79,226
+2017,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,55-59,198
+2015,10,Sant Martí,72,Sant Martí de Provençals,Female,35-39,1044
+2015,3,Sants-Montjuïc,14,la Font de la Guatlla,Male,60-64,277
+2017,7,Horta-Guinardó,38,la Teixonera,Female,25-29,256
+2016,7,Horta-Guinardó,33,el Baix Guinardó,Male,20-24,571
+2016,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Female,35-39,24
+2013,10,Sant Martí,67,la Vila Olímpica del Poblenou,Female,90-94,21
+2017,9,Sant Andreu,58,Baró de Viver,Female,5-9,31
+2015,6,Gràcia,30,la Salut,Female,>=95,41
+2017,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Female,>=95,113
+2016,6,Gràcia,31,la Vila de Gràcia,Female,>=95,167

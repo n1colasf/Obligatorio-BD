@@ -1,0 +1,75 @@
+Year,District_Code,District_Name,Neighborhood_Code,Neighborhood_Name,Gender,Age,Number
+2017,7,Horta-Guinardó,41,la Vall d'Hebron,Male,40-44,221
+2015,2,Eixample,10,Sant Antoni,Female,45-49,1434
+2016,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Female,55-59,1275
+2013,1,Ciutat Vella,1,el Raval,Female,10-14,657
+2017,7,Horta-Guinardó,34,Can Baró,Female,20-24,215
+2015,7,Horta-Guinardó,40,Montbau,Male,85-89,75
+2017,3,Sants-Montjuïc,18,Sants,Female,80-84,985
+2014,6,Gràcia,31,la Vila de Gràcia,Female,15-19,719
+2014,3,Sants-Montjuïc,18,Sants,Female,55-59,1115
+2014,2,Eixample,10,Sant Antoni,Male,60-64,964
+2013,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Male,5-9,693
+2016,9,Sant Andreu,63,Navas,Female,10-14,428
+2016,8,Nou Barris,46,el Turó de la Peira,Female,15-19,269
+2013,7,Horta-Guinardó,40,Montbau,Female,25-29,103
+2015,2,Eixample,10,Sant Antoni,Male,0-4,597
+2014,10,Sant Martí,71,Provençals del Poblenou,Male,15-19,378
+2017,7,Horta-Guinardó,43,Horta,Female,20-24,582
+2016,9,Sant Andreu,59,el Bon Pastor,Female,10-14,323
+2014,8,Nou Barris,46,el Turó de la Peira,Male,50-54,561
+2013,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Female,80-84,34
+2016,10,Sant Martí,65,el Clot,Male,70-74,491
+2014,9,Sant Andreu,61,la Sagrera,Female,65-69,1009
+2017,2,Eixample,6,la Sagrada Família,Female,85-89,1058
+2015,9,Sant Andreu,57,la Trinitat Vella,Female,60-64,215
+2013,10,Sant Martí,65,el Clot,Female,60-64,895
+2017,8,Nou Barris,56,Vallbona,Female,55-59,39
+2014,8,Nou Barris,50,les Roquetes,Female,45-49,613
+2013,7,Horta-Guinardó,35,el Guinardó,Female,15-19,644
+2013,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Female,70-74,174
+2016,9,Sant Andreu,61,la Sagrera,Female,45-49,1064
+2013,10,Sant Martí,70,el Besòs i el Maresme,Male,50-54,823
+2016,8,Nou Barris,56,Vallbona,Male,35-39,75
+2013,8,Nou Barris,52,la Prosperitat,Female,5-9,542
+2017,9,Sant Andreu,60,Sant Andreu,Female,75-79,1144
+2015,7,Horta-Guinardó,42,la Clota,Male,>=95,0
+2013,8,Nou Barris,53,la Trinitat Nova,Male,25-29,234
+2013,6,Gràcia,31,la Vila de Gràcia,Female,25-29,2362
+2014,10,Sant Martí,65,el Clot,Male,40-44,1068
+2015,5,Sarrià-Sant Gervasi,23,Sarrià,Male,25-29,617
+2013,10,Sant Martí,72,Sant Martí de Provençals,Male,65-69,550
+2013,9,Sant Andreu,61,la Sagrera,Female,0-4,593
+2013,1,Ciutat Vella,3,la Barceloneta,Male,20-24,480
+2016,9,Sant Andreu,59,el Bon Pastor,Male,50-54,465
+2014,6,Gràcia,28,Vallcarca i els Penitents,Female,75-79,388
+2013,5,Sarrià-Sant Gervasi,23,Sarrià,Female,50-54,853
+2014,8,Nou Barris,51,Verdun,Female,30-34,504
+2017,10,Sant Martí,72,Sant Martí de Provençals,Female,10-14,539
+2016,3,Sants-Montjuïc,15,Hostafrancs,Female,25-29,687
+2016,7,Horta-Guinardó,42,la Clota,Female,70-74,8
+2013,5,Sarrià-Sant Gervasi,23,Sarrià,Female,40-44,803
+2015,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Female,90-94,189
+2014,2,Eixample,6,la Sagrada Família,Male,50-54,1689
+2014,3,Sants-Montjuïc,16,la Bordeta,Male,0-4,363
+2013,2,Eixample,10,Sant Antoni,Female,60-64,1154
+2017,10,Sant Martí,68,el Poblenou,Male,50-54,1242
+2017,10,Sant Martí,72,Sant Martí de Provençals,Male,65-69,620
+2014,10,Sant Martí,67,la Vila Olímpica del Poblenou,Female,80-84,68
+2017,8,Nou Barris,50,les Roquetes,Male,75-79,229
+2016,8,Nou Barris,52,la Prosperitat,Female,45-49,1017
+2015,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Female,15-19,685
+2014,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Female,65-69,104
+2014,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Female,60-64,832
+2016,10,Sant Martí,72,Sant Martí de Provençals,Female,30-34,661
+2017,8,Nou Barris,53,la Trinitat Nova,Female,20-24,158
+2014,8,Nou Barris,46,el Turó de la Peira,Male,40-44,598
+2013,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Male,15-19,601
+2013,10,Sant Martí,68,el Poblenou,Female,85-89,478
+2013,7,Horta-Guinardó,43,Horta,Male,10-14,510
+2014,10,Sant Martí,65,el Clot,Male,>=95,8
+2017,3,Sants-Montjuïc,11,el Poble Sec,Male,>=95,16
+2017,7,Horta-Guinardó,42,la Clota,Male,90-94,1
+2013,9,Sant Andreu,58,Baró de Viver,Female,5-9,53
+2017,7,Horta-Guinardó,38,la Teixonera,Male,>=95,3
+2013,8,Nou Barris,47,Can Peguera,Male,>=95,1

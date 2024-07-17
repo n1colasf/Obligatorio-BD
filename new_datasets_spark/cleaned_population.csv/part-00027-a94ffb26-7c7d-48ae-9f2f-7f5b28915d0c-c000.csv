@@ -1,0 +1,78 @@
+Year,District_Code,District_Name,Neighborhood_Code,Neighborhood_Name,Gender,Age,Number
+2017,8,Nou Barris,47,Can Peguera,Male,45-49,87
+2016,3,Sants-Montjuïc,15,Hostafrancs,Female,20-24,375
+2017,3,Sants-Montjuïc,16,la Bordeta,Female,75-79,403
+2015,2,Eixample,7,la Dreta de l'Eixample,Female,45-49,1525
+2016,8,Nou Barris,52,la Prosperitat,Female,60-64,711
+2014,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Female,65-69,1224
+2016,8,Nou Barris,49,Canyelles,Female,75-79,185
+2015,10,Sant Martí,64,el Camp de l'Arpa del Clot,Male,35-39,1748
+2014,2,Eixample,9,la Nova Esquerra de l'Eixample,Female,5-9,981
+2017,6,Gràcia,31,la Vila de Gràcia,Male,15-19,798
+2016,8,Nou Barris,52,la Prosperitat,Male,70-74,709
+2015,10,Sant Martí,70,el Besòs i el Maresme,Female,90-94,104
+2014,4,Les Corts,21,Pedralbes,Male,50-54,334
+2014,4,Les Corts,20,la Maternitat i Sant Ramon,Female,55-59,890
+2017,9,Sant Andreu,63,Navas,Female,90-94,152
+2016,8,Nou Barris,47,Can Peguera,Female,75-79,71
+2015,10,Sant Martí,65,el Clot,Female,45-49,1086
+2015,8,Nou Barris,48,la Guineueta,Female,70-74,579
+2013,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Female,35-39,1420
+2016,10,Sant Martí,71,Provençals del Poblenou,Male,5-9,501
+2015,9,Sant Andreu,60,Sant Andreu,Male,70-74,1212
+2014,1,Ciutat Vella,3,la Barceloneta,Female,20-24,435
+2017,6,Gràcia,31,la Vila de Gràcia,Female,55-59,1617
+2013,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Male,20-24,552
+2017,3,Sants-Montjuïc,13,la Marina de Port,Female,90-94,153
+2016,8,Nou Barris,53,la Trinitat Nova,Male,65-69,169
+2014,8,Nou Barris,47,Can Peguera,Female,20-24,70
+2016,10,Sant Martí,67,la Vila Olímpica del Poblenou,Male,65-69,193
+2017,7,Horta-Guinardó,36,la Font d'en Fargues,Female,85-89,135
+2013,4,Les Corts,19,les Corts,Female,85-89,779
+2017,8,Nou Barris,46,el Turó de la Peira,Female,40-44,585
+2015,8,Nou Barris,45,Porta,Male,70-74,597
+2014,3,Sants-Montjuïc,14,la Font de la Guatlla,Male,15-19,142
+2013,3,Sants-Montjuïc,17,Sants - Badal,Female,90-94,129
+2016,9,Sant Andreu,62,el Congrés i els Indians,Female,0-4,300
+2014,6,Gràcia,30,la Salut,Female,35-39,563
+2017,10,Sant Martí,70,el Besòs i el Maresme,Female,15-19,518
+2015,6,Gràcia,29,el Coll,Male,25-29,199
+2014,6,Gràcia,29,el Coll,Female,35-39,374
+2016,8,Nou Barris,50,les Roquetes,Female,75-79,312
+2013,7,Horta-Guinardó,38,la Teixonera,Male,60-64,317
+2017,8,Nou Barris,48,la Guineueta,Female,80-84,487
+2014,5,Sarrià-Sant Gervasi,24,les Tres Torres,Male,75-79,275
+2015,9,Sant Andreu,62,el Congrés i els Indians,Male,70-74,211
+2016,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Male,20-24,159
+2015,8,Nou Barris,51,Verdun,Female,55-59,390
+2014,2,Eixample,7,la Dreta de l'Eixample,Male,25-29,1460
+2017,3,Sants-Montjuïc,13,la Marina de Port,Female,75-79,634
+2014,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Male,55-59,720
+2016,10,Sant Martí,65,el Clot,Female,65-69,814
+2016,9,Sant Andreu,62,el Congrés i els Indians,Female,10-14,213
+2013,7,Horta-Guinardó,33,el Baix Guinardó,Female,80-84,775
+2017,1,Ciutat Vella,2,el Barri Gòtic,Male,0-4,193
+2013,9,Sant Andreu,62,el Congrés i els Indians,Male,20-24,258
+2015,7,Horta-Guinardó,36,la Font d'en Fargues,Male,30-34,258
+2014,8,Nou Barris,56,Vallbona,Male,45-49,26
+2014,6,Gràcia,30,la Salut,Female,65-69,498
+2015,7,Horta-Guinardó,33,el Baix Guinardó,Male,20-24,588
+2016,8,Nou Barris,50,les Roquetes,Female,>=95,17
+2014,1,Ciutat Vella,1,el Raval,Male,>=95,11
+2015,8,Nou Barris,51,Verdun,Male,30-34,423
+2015,7,Horta-Guinardó,38,la Teixonera,Female,80-84,195
+2013,8,Nou Barris,45,Porta,Male,60-64,594
+2013,8,Nou Barris,53,la Trinitat Nova,Female,>=95,17
+2017,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,80-84,220
+2016,8,Nou Barris,48,la Guineueta,Male,25-29,337
+2016,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,0-4,80
+2016,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Male,35-39,34
+2014,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,70-74,374
+2017,6,Gràcia,31,la Vila de Gràcia,Female,>=95,174
+2015,10,Sant Martí,68,el Poblenou,Male,>=95,15
+2014,6,Gràcia,30,la Salut,Female,10-14,130
+2014,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Male,>=95,0
+2017,9,Sant Andreu,58,Baró de Viver,Female,>=95,1
+2016,9,Sant Andreu,59,el Bon Pastor,Female,80-84,145
+2013,8,Nou Barris,46,el Turó de la Peira,Male,>=95,6
+2017,3,Sants-Montjuïc,16,la Bordeta,Male,>=95,11

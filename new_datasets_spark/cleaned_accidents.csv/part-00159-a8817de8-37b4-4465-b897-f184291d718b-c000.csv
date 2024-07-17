@@ -1,0 +1,36 @@
+Id,District_Name,Neighborhood_Name,Street,Weekday,Month,Day,Hour,Part_of_the_day,Mild_injuries,Serious_injuries,Victims,Vehicles_involved,Longitude,Latitude
+2017S010082,Sant Martí,Provençals del Poblenou,Espronceda / Corts Catalanes,Saturday,December,2,13,Morning,0,0,0,1,2.197063,41.411044
+2017S007088,Ciutat Vella,el Barri Gòtic,B-10 (Llobregat),Sunday,August,20,7,Morning,1,0,1,1,2.179935,41.377958
+2017S004655,Eixample,Sant Antoni,Corts Catalanes / Muntaner,Friday,May,26,15,Afternoon,1,0,1,2,2.161964,41.384685
+2017S008266,Eixample,la Sagrada Família,Aragó / Cartagena,Friday,October,6,22,Night,1,0,1,2,2.182219,41.405191
+2017S006866,Sants-Montjuïc,Hostafrancs,Corts Catalanes,Wednesday,August,9,13,Morning,1,0,1,3,2.147624,41.374226
+2017S006156,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Dalt (Besòs),Friday,July,14,17,Afternoon,1,0,1,2,2.130538,41.413509
+2017S002139,Sant Martí,el Clot,BADAJOZ / Pl Glòries Catalan,Friday,March,17,1,Night,2,0,2,2,2.188682,41.403765
+2017S004468,Eixample,la Nova Esquerra de l'Eixample,Roma / Calàbria,Saturday,May,20,8,Morning,1,0,1,2,2.15008,41.383418
+2017S009409,Eixample,l'Antiga Esquerra de l'Eixample,Aragó / Villarroel,Monday,November,13,16,Afternoon,1,0,1,1,2.156205,41.385633
+2017S009470,Les Corts,les Corts,Nicaragua,Wednesday,November,15,12,Morning,0,0,0,2,2.139787,41.384582
+2017S001953,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,AV DIAGONAL / Ganduxer,Thursday,March,9,20,Afternoon,3,0,3,2,2.139396,41.391351
+2017S001339,Horta-Guinardó,Horta,PG VALL D'HEBRON / Scala Dei,Friday,February,17,16,Afternoon,1,0,1,2,2.157351,41.439291
+2017S010173,Eixample,la Dreta de l'Eixample,Aragó / Roger de Llúria,Tuesday,December,5,22,Night,1,0,1,2,2.167508,41.39414
+2017S001427,Eixample,la Sagrada Família,LEPANT / Provença,Tuesday,February,21,7,Morning,1,0,1,2,2.17556,41.405277
+2017S004358,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Dalt (Besòs),Tuesday,May,16,18,Afternoon,0,0,0,3,2.131426,41.414127
+2017S008024,Sant Andreu,Sant Andreu,Residència,Friday,September,29,3,Night,1,0,1,2,2.191344,41.439814
+2017S009761,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Balmes,Friday,November,24,22,Night,1,0,1,2,2.154268,41.39581
+2017S002384,Sarrià-Sant Gervasi,Sarrià,VIA AUGUSTA,Friday,March,24,19,Afternoon,3,0,3,2,2.120866,41.401726
+2017S005925,Sarrià-Sant Gervasi,les Tres Torres,Buïgas,Wednesday,July,5,17,Afternoon,0,0,0,2,2.13073,41.393494
+2017S006814,Eixample,la Sagrada Família,Aragó / Castillejos,Monday,August,7,9,Morning,2,0,2,4,2.181123,41.404366
+2017S006540,Eixample,el Fort Pienc,Lepant / Corts Catalanes,Thursday,July,27,8,Morning,1,0,1,2,2.182427,41.40007
+2017S006313,Sants-Montjuïc,la Marina del Prat Vermell,Número 6 Zona Franca,Wednesday,July,19,17,Afternoon,1,0,1,2,2.114227,41.326497
+2017S006301,Gràcia,la Vila de Gràcia,Gran de Gràcia,Wednesday,July,19,11,Morning,2,0,2,1,2.154779,41.400563
+2017S005103,Eixample,la Dreta de l'Eixample,Sant Joan,Saturday,June,10,19,Afternoon,1,0,1,2,2.171282,41.397779
+2017S010527,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Muntaner / General Mitre,Thursday,December,28,8,Morning,1,0,1,2,2.137914,41.402808
+2017S003357,Horta-Guinardó,el Baix Guinardó,Padilla,Thursday,April,13,8,Morning,1,0,1,2,2.16941,41.411765
+2017S009622,Nou Barris,Canyelles,Dalt (Llobregat),Monday,November,20,7,Morning,1,0,1,4,2.163958,41.440418
+2017S008860,Sant Martí,el Besòs i el Maresme,Cristóbal de Moura / Prim,Thursday,October,26,11,Morning,1,0,1,2,2.213061,41.416011
+2017S003551,Ciutat Vella,el Barri Gòtic,Litoral (Besòs),Friday,April,21,9,Morning,1,0,1,2,2.180111,41.377877
+2017S003935,Ciutat Vella,la Barceloneta,Litoral (Besòs),Wednesday,May,3,19,Afternoon,0,0,0,3,2.193895,41.386
+2017S000292,Eixample,l'Antiga Esquerra de l'Eixample,ARAGÓ / Villarroel,Thursday,January,12,14,Afternoon,1,0,1,2,2.156205,41.385633
+2017S008014,Sants-Montjuïc,Sants,Sants,Thursday,September,28,19,Afternoon,4,0,4,4,2.136023,41.375289
+2017S006164,Horta-Guinardó,la Teixonera,Dalt (Besòs),Saturday,July,15,1,Night,3,0,3,2,2.141696,41.423822
+2017S002071,Horta-Guinardó,el Guinardó,VINYALS,Tuesday,March,14,21,Afternoon,1,0,1,1,2.175864,41.419328
+2017S008332,Sant Andreu,Navas,Clot / Felip II,Monday,October,9,16,Afternoon,1,0,1,1,2.191268,41.417078

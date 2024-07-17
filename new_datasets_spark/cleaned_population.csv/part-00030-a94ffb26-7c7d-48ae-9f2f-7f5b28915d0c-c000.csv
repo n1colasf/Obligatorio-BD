@@ -1,0 +1,67 @@
+Year,District_Code,District_Name,Neighborhood_Code,Neighborhood_Name,Gender,Age,Number
+2015,7,Horta-Guinardó,40,Montbau,Female,60-64,95
+2017,7,Horta-Guinardó,36,la Font d'en Fargues,Female,15-19,213
+2014,6,Gràcia,31,la Vila de Gràcia,Male,45-49,1370
+2017,2,Eixample,7,la Dreta de l'Eixample,Male,25-29,1499
+2013,3,Sants-Montjuïc,15,Hostafrancs,Male,10-14,275
+2017,4,Les Corts,19,les Corts,Male,60-64,1371
+2017,8,Nou Barris,52,la Prosperitat,Female,25-29,776
+2014,4,Les Corts,19,les Corts,Male,5-9,881
+2014,4,Les Corts,20,la Maternitat i Sant Ramon,Male,10-14,374
+2016,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Male,55-59,566
+2013,9,Sant Andreu,62,el Congrés i els Indians,Male,65-69,294
+2017,3,Sants-Montjuïc,17,Sants - Badal,Female,80-84,550
+2015,2,Eixample,7,la Dreta de l'Eixample,Male,5-9,918
+2014,3,Sants-Montjuïc,16,la Bordeta,Female,60-64,503
+2015,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Male,80-84,275
+2016,10,Sant Martí,73,la Verneda i la Pau,Male,70-74,785
+2014,1,Ciutat Vella,1,el Raval,Female,20-24,1313
+2016,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Male,70-74,16
+2016,5,Sarrià-Sant Gervasi,24,les Tres Torres,Male,80-84,213
+2017,5,Sarrià-Sant Gervasi,24,les Tres Torres,Male,75-79,253
+2016,2,Eixample,7,la Dreta de l'Eixample,Male,0-4,968
+2016,6,Gràcia,31,la Vila de Gràcia,Female,0-4,1090
+2015,5,Sarrià-Sant Gervasi,24,les Tres Torres,Male,80-84,133
+2016,4,Les Corts,20,la Maternitat i Sant Ramon,Female,45-49,735
+2015,6,Gràcia,28,Vallcarca i els Penitents,Male,65-69,404
+2015,10,Sant Martí,65,el Clot,Female,15-19,546
+2014,9,Sant Andreu,61,la Sagrera,Female,35-39,1195
+2017,8,Nou Barris,47,Can Peguera,Female,90-94,14
+2014,3,Sants-Montjuïc,11,el Poble Sec,Male,50-54,1259
+2013,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Female,15-19,111
+2017,5,Sarrià-Sant Gervasi,23,Sarrià,Female,35-39,892
+2014,9,Sant Andreu,59,el Bon Pastor,Male,5-9,425
+2014,6,Gràcia,31,la Vila de Gràcia,Female,90-94,476
+2017,4,Les Corts,21,Pedralbes,Male,70-74,294
+2014,9,Sant Andreu,58,Baró de Viver,Female,60-64,49
+2016,2,Eixample,5,el Fort Pienc,Male,5-9,669
+2016,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,55-59,536
+2014,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Female,15-19,536
+2017,7,Horta-Guinardó,42,la Clota,Female,40-44,22
+2013,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,90-94,129
+2015,7,Horta-Guinardó,34,Can Baró,Male,80-84,136
+2015,2,Eixample,6,la Sagrada Família,Male,85-89,446
+2016,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Female,60-64,872
+2013,6,Gràcia,28,Vallcarca i els Penitents,Female,35-39,671
+2016,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Male,90-94,169
+2015,8,Nou Barris,53,la Trinitat Nova,Male,10-14,178
+2016,7,Horta-Guinardó,38,la Teixonera,Male,50-54,371
+2016,2,Eixample,9,la Nova Esquerra de l'Eixample,Male,75-79,760
+2015,1,Ciutat Vella,1,el Raval,Female,60-64,824
+2013,10,Sant Martí,65,el Clot,Female,50-54,900
+2014,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Female,85-89,592
+2017,8,Nou Barris,45,Porta,Female,55-59,766
+2017,7,Horta-Guinardó,35,el Guinardó,Female,60-64,1139
+2013,7,Horta-Guinardó,36,la Font d'en Fargues,Female,25-29,185
+2014,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Male,0-4,1014
+2016,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,25-29,159
+2015,6,Gràcia,29,el Coll,Female,25-29,161
+2017,5,Sarrià-Sant Gervasi,23,Sarrià,Male,75-79,295
+2016,8,Nou Barris,54,Torre Baró,Female,75-79,43
+2016,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Female,70-74,1386
+2016,8,Nou Barris,56,Vallbona,Male,5-9,57
+2014,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Female,5-9,466
+2013,7,Horta-Guinardó,42,la Clota,Male,60-64,10
+2016,8,Nou Barris,55,Ciutat Meridiana,Female,0-4,258
+2013,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Male,>=95,0
+2017,2,Eixample,5,el Fort Pienc,Female,>=95,101

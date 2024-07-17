@@ -1,0 +1,51 @@
+Id,District_Name,Neighborhood_Name,Street,Weekday,Month,Day,Hour,Part_of_the_day,Mild_injuries,Serious_injuries,Victims,Vehicles_involved,Longitude,Latitude
+2017S004444,Eixample,la Dreta de l'Eixample,Provença / Pau Claris,Friday,May,19,18,Afternoon,1,0,1,2,2.162979,41.395876
+2017S006419,Eixample,el Fort Pienc,Aragó / Diagonal,Saturday,July,22,22,Night,1,0,1,2,2.175428,41.400076
+2017S003487,Les Corts,Pedralbes,Manuel Girona / Pedralbes,Wednesday,April,19,13,Morning,3,0,3,2,2.119577,41.389598
+2017S000672,Les Corts,Pedralbes,PASCUAL I VILA / Pau Gargallo,Thursday,January,26,6,Morning,1,0,1,2,2.116634,41.383882
+2017S001072,Eixample,l'Antiga Esquerra de l'Eixample,ARAGÓ,Wednesday,February,8,19,Afternoon,1,0,1,2,2.157157,41.386219
+2017S006070,Eixample,l'Antiga Esquerra de l'Eixample,Muntaner / València,Wednesday,July,12,13,Morning,1,0,1,2,2.157335,41.38818
+2017S004745,Eixample,la Nova Esquerra de l'Eixample,Tarragona,Tuesday,May,30,8,Morning,1,0,1,2,2.148317,41.37574
+2017S002546,Sants-Montjuïc,la Marina de Port,PL ILDEFONS CERDÀ,Thursday,March,30,14,Afternoon,1,0,1,2,2.136301,41.3649
+2017S005629,Horta-Guinardó,la Teixonera,Vall d'Hebron,Wednesday,June,28,13,Morning,1,0,1,1,2.142435,41.424034
+2017S009872,Sant Andreu,la Trinitat Vella,B-20 (Besòs),Monday,November,27,15,Afternoon,3,0,3,3,2.193281,41.447326
+2017S008605,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Litoral (Llobregat),Wednesday,October,18,20,Afternoon,1,0,1,2,2.219657,41.407339
+2017S001091,Eixample,l'Antiga Esquerra de l'Eixample,AV ROMA / Villarroel,Thursday,February,9,12,Morning,1,0,1,2,2.155836,41.385909
+2017S008909,Eixample,la Dreta de l'Eixample,Rosselló,Friday,October,27,19,Afternoon,1,0,1,2,2.167215,41.400619
+2017S001355,Sants-Montjuïc,la Font de la Guatlla,GV CORTS CATALANES,Saturday,February,18,8,Morning,1,0,1,2,2.145132,41.371695
+2017S001347,Sants-Montjuïc,Sants,GALILEU / Violant d'Hongria,Friday,February,17,18,Afternoon,0,0,0,2,2.134014,41.380178
+2017S000713,Eixample,Sant Antoni,ENTENÇA / Sepúlveda,Friday,January,27,11,Morning,1,0,1,1,2.154165,41.376925
+2017S005705,Eixample,el Fort Pienc,Marina,Friday,June,30,17,Afternoon,1,0,1,2,2.181978,41.398223
+2017S008372,Sants-Montjuïc,el Poble-sec,Paral·lel,Tuesday,October,10,21,Afternoon,1,0,1,2,2.168047,41.374786
+2017S003670,Les Corts,les Corts,Sarrià,Tuesday,April,25,10,Morning,1,0,1,4,2.130816,41.392323
+2017S006512,Gràcia,Vallcarca i els Penitents,Mare de Déu del Coll / Baró de la Barre,Wednesday,July,26,8,Morning,1,0,1,2,2.144678,41.414146
+2017S003616,Ciutat Vella,el Raval,Rambla / Pintor Fortuny,Saturday,April,22,21,Afternoon,0,0,0,1,2.171227,41.383721
+2017S007993,Ciutat Vella,la Barceloneta,Litoral (Besòs),Thursday,September,28,1,Night,1,0,1,2,2.193039,41.385359
+2017S007106,Eixample,la Nova Esquerra de l'Eixample,Entença / Còrsega,Monday,August,21,18,Afternoon,5,0,5,2,2.143749,41.384787
+2017S010025,Eixample,l'Antiga Esquerra de l'Eixample,Corts Catalanes,Thursday,November,30,16,Afternoon,2,0,2,1,2.164013,41.386548
+2017S010087,Eixample,la Dreta de l'Eixample,Aragó / Sant Joan,Sunday,December,3,0,Night,1,0,1,2,2.172037,41.397542
+2017S008195,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Muntaner,Wednesday,October,4,17,Afternoon,1,0,1,1,2.134081,41.406051
+2017S003333,Gràcia,el Camp d'en Grassot i Gràcia Nova,Sant Joan / Còrsega,Wednesday,April,12,13,Morning,1,0,1,2,2.166363,41.401823
+2017S003240,Horta-Guinardó,el Baix Guinardó,Padilla / Gràcia,Friday,April,7,23,Night,1,0,1,2,2.171536,41.409982
+2017S009113,Sant Andreu,Sant Andreu,Palomar / Torras i Bages,Saturday,November,4,14,Afternoon,1,0,1,2,2.190828,41.442138
+2017S001826,Sant Martí,el Camp de l'Arpa del Clot,ROSSELLÓ / Dos de Maig,Monday,March,6,4,Night,1,0,1,2,2.178834,41.409476
+2017S007941,Eixample,la Nova Esquerra de l'Eixample,Comte d'Urgell / Diputació,Tuesday,September,26,9,Morning,1,0,1,1,2.157318,41.383073
+2017S007018,Eixample,la Dreta de l'Eixample,Aragó / Roger de Llúria,Wednesday,August,16,17,Afternoon,2,0,2,2,2.167508,41.39414
+2017S001528,Eixample,el Fort Pienc,GV CORTS CATALANES / Sicília,Friday,February,24,12,Morning,1,0,1,2,2.178932,41.397435
+2017S001433,Sants-Montjuïc,el Poble-sec,VILA I VILÀ,Tuesday,February,21,10,Morning,3,0,3,8,2.169652,41.373851
+2017S006229,Sants-Montjuïc,la Marina del Prat Vermell,Longitudinal 6,Monday,July,17,14,Afternoon,1,0,1,2,2.113733,41.331286
+2017S008868,Sants-Montjuïc,Hostafrancs,Corts Catalanes / Sant Roc,Thursday,October,26,18,Afternoon,1,0,1,2,2.146167,41.372857
+2017S005815,Sarrià-Sant Gervasi,les Tres Torres,Augusta / Vergós,Tuesday,July,4,16,Afternoon,0,0,0,1,2.128006,41.397787
+2017S001755,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,BENEDETTI,Friday,March,3,15,Afternoon,2,0,2,2,2.125183,41.409364
+2017S009332,Sarrià-Sant Gervasi,el Putxet i el Farró,República Argentina,Friday,November,10,17,Afternoon,1,0,1,1,2.1432,41.411384
+2017S007861,Horta-Guinardó,el Baix Guinardó,Pi i Margall,Friday,September,22,14,Afternoon,1,0,1,2,2.16479,41.411397
+2017S007270,Nou Barris,Vilapicina i la Torre Llobeta,Espiell / Petrarca,Tuesday,August,29,19,Afternoon,0,0,0,2,2.166902,41.430035
+2017S003071,Sant Andreu,la Sagrera,Meridiana / Pegàs,Sunday,April,2,13,Morning,1,0,1,2,2.186229,41.425541
+2017S003036,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs),Sunday,April,2,13,Morning,3,0,3,3,2.172133,41.366507
+2017S003043,Gràcia,el Camp d'en Grassot i Gràcia Nova,Sardenya / Indústria,Sunday,April,2,15,Afternoon,1,0,1,2,2.169782,41.406071
+2017S007398,Nou Barris,Porta,Escultor Ordóñez,Tuesday,September,5,12,Morning,1,0,1,3,2.178539,41.438145
+2017S003458,Sant Andreu,la Sagrera,Meridiana / Garcilaso,Tuesday,April,18,12,Morning,1,0,1,1,2.186927,41.422864
+2017S009657,Ciutat Vella,el Raval,Litoral (Besòs),Tuesday,November,21,9,Morning,0,1,1,2,2.175039,41.370822
+2017S001706,Ciutat Vella,el Barri Gòtic,PL DUC MEDINACELI / Ample,Thursday,March,2,5,Night,1,0,1,1,2.178735,41.37862
+2017S007935,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Pujades / Picasso,Tuesday,September,26,7,Morning,1,0,1,2,2.182438,41.388166
+2017S002122,Gràcia,el Camp d'en Grassot i Gràcia Nova,PI I MARGALL / Hipòlit Lázaro,Thursday,March,16,17,Afternoon,1,0,1,2,2.16352,41.407416

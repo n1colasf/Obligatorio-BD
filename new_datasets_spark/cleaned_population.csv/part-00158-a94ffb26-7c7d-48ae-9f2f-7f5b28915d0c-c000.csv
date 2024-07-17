@@ -1,0 +1,73 @@
+Year,District_Code,District_Name,Neighborhood_Code,Neighborhood_Name,Gender,Age,Number
+2015,7,Horta-Guinardó,38,la Teixonera,Female,55-59,293
+2016,7,Horta-Guinardó,37,el Carmel,Female,20-24,720
+2015,4,Les Corts,21,Pedralbes,Male,25-29,306
+2015,8,Nou Barris,49,Canyelles,Female,40-44,237
+2013,9,Sant Andreu,57,la Trinitat Vella,Male,65-69,160
+2013,8,Nou Barris,55,Ciutat Meridiana,Female,80-84,103
+2017,9,Sant Andreu,61,la Sagrera,Male,20-24,639
+2017,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Female,80-84,42
+2015,7,Horta-Guinardó,33,el Baix Guinardó,Female,85-89,555
+2014,9,Sant Andreu,59,el Bon Pastor,Male,30-34,394
+2013,7,Horta-Guinardó,33,el Baix Guinardó,Male,10-14,375
+2013,2,Eixample,10,Sant Antoni,Male,50-54,946
+2014,10,Sant Martí,65,el Clot,Male,30-34,1126
+2016,1,Ciutat Vella,2,el Barri Gòtic,Male,35-39,1008
+2015,10,Sant Martí,73,la Verneda i la Pau,Female,45-49,1072
+2013,3,Sants-Montjuïc,14,la Font de la Guatlla,Female,30-34,489
+2013,10,Sant Martí,64,el Camp de l'Arpa del Clot,Male,80-84,500
+2013,3,Sants-Montjuïc,17,Sants - Badal,Female,80-84,549
+2016,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Male,70-74,316
+2014,3,Sants-Montjuïc,13,la Marina de Port,Male,20-24,783
+2014,9,Sant Andreu,62,el Congrés i els Indians,Male,60-64,226
+2013,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Male,70-74,212
+2013,2,Eixample,5,el Fort Pienc,Female,80-84,590
+2017,9,Sant Andreu,59,el Bon Pastor,Male,10-14,398
+2017,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Male,70-74,737
+2015,10,Sant Martí,64,el Camp de l'Arpa del Clot,Female,20-24,827
+2015,8,Nou Barris,48,la Guineueta,Male,60-64,334
+2017,4,Les Corts,19,les Corts,Male,10-14,874
+2014,3,Sants-Montjuïc,14,la Font de la Guatlla,Female,40-44,369
+2013,7,Horta-Guinardó,34,Can Baró,Male,45-49,347
+2017,8,Nou Barris,52,la Prosperitat,Female,5-9,595
+2014,8,Nou Barris,50,les Roquetes,Female,25-29,580
+2016,2,Eixample,6,la Sagrada Família,Male,20-24,1190
+2014,8,Nou Barris,50,les Roquetes,Male,80-84,171
+2015,4,Les Corts,21,Pedralbes,Female,20-24,283
+2014,8,Nou Barris,52,la Prosperitat,Male,15-19,547
+2017,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Female,10-14,752
+2014,7,Horta-Guinardó,40,Montbau,Male,40-44,210
+2017,10,Sant Martí,68,el Poblenou,Female,15-19,640
+2015,7,Horta-Guinardó,43,Horta,Female,25-29,707
+2014,2,Eixample,5,el Fort Pienc,Female,15-19,578
+2014,3,Sants-Montjuïc,11,el Poble Sec,Female,40-44,1317
+2013,8,Nou Barris,54,Torre Baró,Male,10-14,44
+2016,2,Eixample,5,el Fort Pienc,Male,60-64,820
+2016,8,Nou Barris,51,Verdun,Female,45-49,461
+2013,8,Nou Barris,47,Can Peguera,Female,45-49,98
+2017,10,Sant Martí,71,Provençals del Poblenou,Female,60-64,470
+2014,1,Ciutat Vella,3,la Barceloneta,Male,75-79,240
+2016,3,Sants-Montjuïc,17,Sants - Badal,Female,45-49,831
+2013,7,Horta-Guinardó,39,Sant Genís dels Agudells,Male,>=95,6
+2014,9,Sant Andreu,61,la Sagrera,Male,5-9,578
+2015,8,Nou Barris,46,el Turó de la Peira,Male,10-14,323
+2016,3,Sants-Montjuïc,15,Hostafrancs,Male,35-39,772
+2016,4,Les Corts,19,les Corts,Male,60-64,1359
+2014,3,Sants-Montjuïc,16,la Bordeta,Female,75-79,494
+2014,2,Eixample,9,la Nova Esquerra de l'Eixample,Female,40-44,2041
+2014,6,Gràcia,28,Vallcarca i els Penitents,Female,40-44,656
+2017,10,Sant Martí,65,el Clot,Male,15-19,631
+2017,7,Horta-Guinardó,34,Can Baró,Male,60-64,191
+2013,8,Nou Barris,55,Ciutat Meridiana,Female,75-79,223
+2017,10,Sant Martí,68,el Poblenou,Female,90-94,270
+2013,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Male,40-44,758
+2015,5,Sarrià-Sant Gervasi,23,Sarrià,Male,10-14,794
+2014,1,Ciutat Vella,3,la Barceloneta,Male,65-69,177
+2013,2,Eixample,6,la Sagrada Família,Male,40-44,1853
+2016,10,Sant Martí,72,Sant Martí de Provençals,Female,65-69,879
+2017,1,Ciutat Vella,1,el Raval,Female,45-49,1543
+2017,6,Gràcia,30,la Salut,Male,20-24,240
+2013,6,Gràcia,28,Vallcarca i els Penitents,Female,5-9,341
+2013,10,Sant Martí,67,la Vila Olímpica del Poblenou,Male,40-44,234
+2015,7,Horta-Guinardó,35,el Guinardó,Male,65-69,928
+2016,9,Sant Andreu,63,Navas,Female,30-34,588

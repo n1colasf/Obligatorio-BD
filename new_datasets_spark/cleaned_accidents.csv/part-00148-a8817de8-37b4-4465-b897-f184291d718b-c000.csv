@@ -1,0 +1,35 @@
+Id,District_Name,Neighborhood_Name,Street,Weekday,Month,Day,Hour,Part_of_the_day,Mild_injuries,Serious_injuries,Victims,Vehicles_involved,Longitude,Latitude
+2017S006400,Eixample,el Fort Pienc,Casp / Sicília,Saturday,July,22,0,Night,2,0,2,2,2.180201,41.396482
+2017S004577,Sants-Montjuïc,la Marina del Prat Vermell,k / Número 6 Zona Franca,Wednesday,May,24,7,Morning,1,0,1,2,2.112745,41.327999
+2017S000468,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,TORRAS I PUJALT / Emancipació,Tuesday,January,17,16,Afternoon,1,0,1,2,2.132727,41.4034
+2017S009360,Horta-Guinardó,Horta,Dalt (Besòs),Saturday,November,11,20,Afternoon,0,0,0,3,2.159523,41.439753
+2017S008912,Nou Barris,Vilapicina i la Torre Llobeta,Costa i Cuxart / Baró d'Esponellà,Friday,October,27,20,Afternoon,1,0,1,1,2.173532,41.427694
+2017S000848,Horta-Guinardó,Horta,CTRA HTA CERDANY,Wednesday,February,1,8,Morning,0,0,0,1,2.150639,41.443107
+2017S006941,Sant Martí,Sant Martí de Provençals,Selva de Mar,Saturday,August,12,13,Morning,1,0,1,2,2.2001,41.416128
+2017S001477,Eixample,la Nova Esquerra de l'Eixample,ARAGÓ / Llança,Wednesday,February,22,14,Afternoon,1,0,1,2,2.147145,41.37883
+2017S001856,Eixample,la Dreta de l'Eixample,BAILÈN / Av Diagonal,Monday,March,6,22,Night,1,0,1,2,2.168217,41.398713
+2017S004352,Eixample,la Dreta de l'Eixample,Corts Catalanes / Pau Claris,Tuesday,May,16,16,Afternoon,1,0,1,2,2.169896,41.390642
+2017S001643,Eixample,la Sagrada Família,MALLORCA / Sardenya,Tuesday,February,28,11,Morning,1,0,1,2,2.174311,41.402644
+2017S002164,Sarrià-Sant Gervasi,Sarrià,VIA AUGUSTA / Pg Bonanova,Friday,March,17,18,Afternoon,1,0,1,2,2.122699,41.400627
+2017S009029,Sarrià-Sant Gervasi,Sarrià,Anglí / Terré,Wednesday,November,1,13,Morning,1,0,1,2,2.120046,41.405841
+2017S009512,Horta-Guinardó,el Carmel,Moratín,Thursday,November,16,16,Afternoon,4,0,4,3,2.154104,41.425245
+2017S004923,Sant Andreu,la Trinitat Vella,Dalt (Llobregat),Monday,June,5,6,Morning,0,0,0,1,2.193426,41.447055
+2017S004991,Eixample,l'Antiga Esquerra de l'Eixample,Aragó / Muntaner,Wednesday,June,7,22,Night,1,0,1,2,2.158465,41.38733
+2017S005956,Eixample,la Dreta de l'Eixample,Corts Catalanes / Roger de Llúria,Saturday,July,8,19,Afternoon,1,0,1,2,2.170988,41.391485
+2017S003836,Sants-Montjuïc,el Poble-sec,Francesc Ferrer i Guàrdia,Sunday,April,30,11,Morning,2,0,2,1,2.149319,41.369641
+2017S006747,Sants-Montjuïc,el Poble-sec,Paral·lel / Nou de la Rambla,Friday,August,4,1,Night,2,0,2,2,2.170003,41.374971
+2017S006275,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Prats de Molló,Tuesday,July,18,14,Afternoon,1,0,1,1,2.136671,41.401293
+2017S006611,Les Corts,Pedralbes,Pius XII,Saturday,July,29,21,Afternoon,1,0,1,1,2.123109,41.386531
+2017S001486,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,RDA GENERAL MITRE / Via Augusta,Wednesday,February,22,23,Night,3,0,3,2,2.132853,41.397779
+2017S003063,Sarrià-Sant Gervasi,Sarrià,Sant Joan Bosco,Monday,April,3,8,Morning,1,0,1,2,2.129023,41.393405
+2017S003658,Eixample,la Sagrada Família,Padilla / València,Monday,April,24,19,Afternoon,1,0,1,2,2.17889,41.404391
+2017S008338,Eixample,la Sagrada Família,Padilla / Còrsega,Monday,October,9,22,Night,1,0,1,2,2.174377,41.407824
+2017S000740,Horta-Guinardó,Horta,PL ESTATUT / Porto,Saturday,January,28,6,Morning,0,0,0,1,2.156725,41.430018
+2017S005848,Sant Andreu,la Trinitat Vella,B-10 (Besòs),Wednesday,July,5,9,Morning,1,0,1,2,2.2018,41.392004
+2017S002417,Eixample,la Sagrada Família,CONSELL DE CENT,Saturday,March,25,20,Afternoon,1,0,1,2,2.181838,41.403339
+2017S001071,Eixample,la Dreta de l'Eixample,PG GRÀCIA / Aragó,Wednesday,February,8,18,Afternoon,1,0,1,2,2.164884,41.392165
+2017S006753,Eixample,la Sagrada Família,Lepant / Gaudí,Friday,August,4,10,Morning,1,0,1,2,2.174419,41.406144
+2017S007405,Sarrià-Sant Gervasi,les Tres Torres,Anglí / Doctor Carulla,Tuesday,September,5,15,Afternoon,1,0,1,2,2.127206,41.398831
+2017S004718,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Dalt (Llobregat),Monday,May,29,8,Morning,1,0,1,2,2.122895,41.407801
+2017S010039,Nou Barris,Canyelles,Favència / Guineueta Vella,Friday,December,1,13,Morning,1,0,1,1,2.170312,41.442997
+2017S007806,Eixample,la Dreta de l'Eixample,Aragó,Thursday,September,21,3,Night,0,0,0,2,2.16531,41.392694

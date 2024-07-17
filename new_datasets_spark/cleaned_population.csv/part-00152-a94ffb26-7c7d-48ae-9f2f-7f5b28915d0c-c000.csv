@@ -1,0 +1,50 @@
+Year,District_Code,District_Name,Neighborhood_Code,Neighborhood_Name,Gender,Age,Number
+2017,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Female,5-9,1124
+2016,2,Eixample,10,Sant Antoni,Male,20-24,864
+2016,9,Sant Andreu,61,la Sagrera,Female,10-14,386
+2014,9,Sant Andreu,60,Sant Andreu,Male,20-24,1203
+2017,3,Sants-Montjuïc,15,Hostafrancs,Male,50-54,284
+2016,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Male,10-14,711
+2016,6,Gràcia,31,la Vila de Gràcia,Female,70-74,1122
+2014,3,Sants-Montjuïc,14,la Font de la Guatlla,Female,0-4,179
+2016,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Male,75-79,175
+2015,9,Sant Andreu,57,la Trinitat Vella,Male,55-59,146
+2015,7,Horta-Guinardó,43,Horta,Female,20-24,472
+2016,10,Sant Martí,67,la Vila Olímpica del Poblenou,Male,30-34,185
+2013,2,Eixample,7,la Dreta de l'Eixample,Female,25-29,1726
+2016,10,Sant Martí,73,la Verneda i la Pau,Male,90-94,85
+2013,8,Nou Barris,50,les Roquetes,Male,70-74,275
+2015,10,Sant Martí,71,Provençals del Poblenou,Male,75-79,270
+2014,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Female,85-89,671
+2013,9,Sant Andreu,61,la Sagrera,Male,25-29,891
+2017,6,Gràcia,31,la Vila de Gràcia,Male,90-94,125
+2015,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Male,85-89,222
+2013,9,Sant Andreu,62,el Congrés i els Indians,Male,30-34,509
+2016,7,Horta-Guinardó,40,Montbau,Female,0-4,74
+2016,9,Sant Andreu,61,la Sagrera,Male,20-24,647
+2014,9,Sant Andreu,58,Baró de Viver,Male,30-34,95
+2013,8,Nou Barris,48,la Guineueta,Male,5-9,320
+2015,8,Nou Barris,54,Torre Baró,Male,55-59,87
+2013,1,Ciutat Vella,2,el Barri Gòtic,Female,5-9,247
+2016,3,Sants-Montjuïc,16,la Bordeta,Male,35-39,698
+2016,7,Horta-Guinardó,43,Horta,Female,80-84,773
+2017,7,Horta-Guinardó,42,la Clota,Male,60-64,6
+2015,7,Horta-Guinardó,41,la Vall d'Hebron,Male,40-44,208
+2015,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Female,45-49,488
+2016,10,Sant Martí,72,Sant Martí de Provençals,Female,0-4,516
+2016,3,Sants-Montjuïc,16,la Bordeta,Female,0-4,386
+2014,9,Sant Andreu,60,Sant Andreu,Female,85-89,767
+2017,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Male,>=95,32
+2016,1,Ciutat Vella,2,el Barri Gòtic,Female,90-94,130
+2013,8,Nou Barris,50,les Roquetes,Male,15-19,360
+2014,7,Horta-Guinardó,39,Sant Genís dels Agudells,Male,35-39,205
+2013,10,Sant Martí,70,el Besòs i el Maresme,Male,20-24,784
+2013,7,Horta-Guinardó,41,la Vall d'Hebron,Male,85-89,39
+2016,3,Sants-Montjuïc,15,Hostafrancs,Male,25-29,560
+2013,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Male,45-49,898
+2014,1,Ciutat Vella,1,el Raval,Female,85-89,527
+2015,9,Sant Andreu,57,la Trinitat Vella,Female,85-89,61
+2013,7,Horta-Guinardó,36,la Font d'en Fargues,Male,55-59,292
+2014,6,Gràcia,30,la Salut,Female,50-54,345
+2017,10,Sant Martí,70,el Besòs i el Maresme,Female,30-34,787
+2015,10,Sant Martí,70,el Besòs i el Maresme,Male,65-69,418

@@ -1,0 +1,48 @@
+Id,District_Name,Neighborhood_Name,Street,Weekday,Month,Day,Hour,Part_of_the_day,Mild_injuries,Serious_injuries,Victims,Vehicles_involved,Longitude,Latitude
+2017S001020,Eixample,la Nova Esquerra de l'Eixample,CALÀBRIA / Mallorca,Tuesday,February,7,14,Afternoon,1,0,1,2,2.1494,41.383924
+2017S008625,Eixample,l'Antiga Esquerra de l'Eixample,París / Aribau,Thursday,October,19,13,Morning,1,0,1,1,2.152821,41.393315
+2017S004024,Sants-Montjuïc,el Poble-sec,Paral·lel,Saturday,May,6,19,Afternoon,2,0,2,2,2.168047,41.374786
+2017S003959,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Augusta / General Mitre,Thursday,May,4,14,Afternoon,2,1,3,2,2.132853,41.397779
+2017S007015,Sarrià-Sant Gervasi,Sarrià,Aigües,Wednesday,August,16,14,Afternoon,1,0,1,2,2.107629,41.406485
+2017S002289,Sant Martí,el Besòs i el Maresme,RDA LITORAL(LLOBRE,Wednesday,March,22,10,Morning,2,0,2,2,2.221373,41.409658
+2017S001278,Sant Martí,el Parc i la Llacuna del Poblenou,PG PUJADES / Wellington,Wednesday,February,15,18,Afternoon,1,0,1,2,2.186859,41.391505
+2017S007178,Eixample,l'Antiga Esquerra de l'Eixample,Comte d'Urgell / Còrsega,Friday,August,25,17,Afternoon,1,0,1,2,2.149401,41.389061
+2017S007333,Sants-Montjuïc,la Marina del Prat Vermell,Foc / Metal·lúrgia,Friday,September,1,13,Morning,0,1,1,1,2.133866,41.35305
+2017S005645,Horta-Guinardó,el Carmel,Santuari,Wednesday,June,28,18,Afternoon,0,0,0,4,2.155761,41.419833
+2017S002351,Nou Barris,Porta,PG VALLDAURA / Lluc,Thursday,March,23,20,Afternoon,1,0,1,1,2.176966,41.438672
+2017S000676,Sant Martí,el Poblenou,BILBAO / Ramon Turró,Thursday,January,26,7,Morning,1,0,1,3,2.205233,41.401617
+2017S004596,Eixample,la Nova Esquerra de l'Eixample,Tarragona / València,Wednesday,May,24,17,Afternoon,1,0,1,2,2.14483,41.378807
+2017S003860,Eixample,la Sagrada Família,Mallorca,Monday,May,1,22,Night,1,0,1,2,2.178523,41.405963
+2017S003674,Eixample,l'Antiga Esquerra de l'Eixample,París / Villarroel,Tuesday,April,25,10,Morning,1,0,1,2,2.14943,41.39076
+2017S000480,Sants-Montjuïc,la Marina del Prat Vermell,NÚMERO 6 / D,Wednesday,January,18,10,Morning,1,0,1,2,2.124522,41.323094
+2017S002319,Sants-Montjuïc,la Marina del Prat Vermell,MOTORS,Thursday,March,23,8,Morning,1,0,1,2,2.142938,41.349996
+2017S000835,Les Corts,la Maternitat i Sant Ramon,PARC CERVANTES,Tuesday,January,31,8,Morning,1,0,1,2,2.105844,41.384498
+2017S010412,Horta-Guinardó,Sant Genís dels Agudells,Dalt (Llobregat),Saturday,December,16,21,Afternoon,3,0,3,2,2.142389,41.42461
+2017S007107,Nou Barris,la Prosperitat,Favència / Júlia,Monday,August,21,21,Afternoon,4,0,4,2,2.179592,41.446074
+2017S000820,Sant Martí,la Vila Olímpica del Poblenou,RAMON TURRÓ,Tuesday,January,31,9,Morning,1,0,1,1,2.192244,41.39176
+2017S004775,Eixample,la Dreta de l'Eixample,Gràcia / Rosselló,Wednesday,May,31,10,Morning,0,0,0,2,2.160499,41.39571
+2017S008628,Eixample,l'Antiga Esquerra de l'Eixample,Aribau / Diputació,Thursday,October,19,14,Afternoon,1,0,1,2,2.161864,41.386483
+2017S002240,Sants-Montjuïc,Hostafrancs,TARRAGONA / València,Wednesday,March,15,21,Afternoon,1,0,1,6,2.14483,41.378807
+2017S010354,Sarrià-Sant Gervasi,Sarrià,Bosc,Friday,December,15,8,Morning,1,0,1,1,2.111105,41.411954
+2017S001519,Horta-Guinardó,Montbau,RDA DALT (BESÒS),Friday,February,24,8,Morning,1,0,1,2,2.145629,41.432369
+2017S008003,Sant Martí,el Parc i la Llacuna del Poblenou,Badajoz / Sancho de Ávila,Thursday,September,28,12,Morning,1,0,1,1,2.192676,41.400701
+2017S004656,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Selva de Mar / Taulat,Friday,May,26,15,Afternoon,0,1,1,2,2.213302,41.405646
+2017S006771,Sant Andreu,Sant Andreu,Meridiana / Pintor Alsamora,Friday,August,4,23,Night,2,0,2,2,2.183658,41.434136
+2017S009573,Sant Martí,el Camp de l'Arpa del Clot,Independència / Mallorca,Friday,November,17,21,Afternoon,2,0,2,2,2.182279,41.408631
+2017S006778,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Litoral,Saturday,August,5,11,Morning,1,0,1,2,2.214286,41.40257
+2017S006382,Eixample,Sant Antoni,Corts Catalanes / Comte Borrell,Friday,July,21,15,Afternoon,1,0,1,2,2.157427,41.381284
+2017S001886,Eixample,la Dreta de l'Eixample,ARAGÓ,Wednesday,March,8,3,Night,0,0,0,14,2.162429,41.390124
+2017S003062,Sants-Montjuïc,la Marina del Prat Vermell,Mare de Déu de Port / Motors,Monday,April,3,9,Morning,1,0,1,2,2.151053,41.35292
+2017S003582,Les Corts,les Corts,Diagonal / Numància,Friday,April,21,15,Afternoon,1,0,1,2,2.132608,41.389624
+2017S009623,Nou Barris,el Turó de la Peira,Canfranc,Monday,November,20,9,Morning,1,0,1,2,2.167149,41.431026
+2017S009039,Sant Martí,el Parc i la Llacuna del Poblenou,Meridiana / Zamora,Thursday,November,2,8,Morning,1,0,1,3,2.186939,41.39814
+2017S001227,Eixample,la Nova Esquerra de l'Eixample,ENTENÇA / Av J Tarradellas,Tuesday,February,14,10,Morning,1,0,1,2,2.142628,41.385659
+2017S006945,Eixample,la Dreta de l'Eixample,València / Catalunya,Saturday,August,12,23,Night,1,0,1,3,2.162304,41.391909
+2017S000603,Sants-Montjuïc,la Marina de Port,FERROCARRILS CAT / Foneria,Monday,January,23,8,Morning,1,0,1,2,2.141099,41.361523
+2017S004063,Horta-Guinardó,el Carmel,Santuari,Monday,May,8,11,Morning,2,0,2,2,2.157131,41.418668
+2017S004492,Nou Barris,la Prosperitat,Arítjols / Joaquim Valls,Sunday,May,21,14,Afternoon,1,0,1,2,2.182478,41.442675
+2017S004343,Sant Martí,el Camp de l'Arpa del Clot,Indústria / Independència,Tuesday,May,16,12,Morning,1,0,1,2,2.177733,41.4121
+2017S008271,Sant Martí,el Camp de l'Arpa del Clot,Provença,Friday,October,6,18,Afternoon,1,0,1,1,2.180158,41.408811
+2017S006025,Eixample,la Dreta de l'Eixample,Catalunya / Còrsega,Tuesday,July,11,15,Afternoon,1,0,1,2,2.157673,41.395281
+2017S001330,Eixample,l'Antiga Esquerra de l'Eixample,VILLARROEL / Provença,Friday,February,17,13,Morning,1,0,1,2,2.152811,41.38818
+2017S005836,Nou Barris,les Roquetes,B-20 (Besòs),Wednesday,July,5,8,Morning,1,0,1,2,2.175769,41.445142

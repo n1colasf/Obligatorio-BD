@@ -1,0 +1,51 @@
+Id,District_Name,Neighborhood_Name,Street,Weekday,Month,Day,Hour,Part_of_the_day,Mild_injuries,Serious_injuries,Victims,Vehicles_involved,Longitude,Latitude
+2017S006914,Sant Martí,el Besòs i el Maresme,Prim / Pujades,Friday,August,11,15,Afternoon,1,0,1,2,2.216424,41.413489
+2017S003212,Ciutat Vella,el Raval,Pelai,Wednesday,April,5,20,Afternoon,2,0,2,1,2.169344,41.385405
+2017S007549,Sant Andreu,la Sagrera,Gran de la Sagrera,Tuesday,September,12,9,Morning,2,0,2,2,2.191243,41.423171
+2017S001787,Eixample,la Dreta de l'Eixample,PROVENÇA / Roger de Flor,Saturday,March,4,13,Morning,0,0,0,1,2.169789,41.400976
+2017S007040,Eixample,la Dreta de l'Eixample,Sant Joan,Thursday,August,17,16,Afternoon,1,0,1,2,2.178406,41.392395
+2017S004028,Eixample,la Dreta de l'Eixample,Casp / Pau Claris,Saturday,May,6,17,Afternoon,1,0,1,2,2.171146,41.389691
+2017S006258,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes / Sant Roc,Tuesday,July,18,10,Morning,1,0,1,3,2.146167,41.372857
+2017S006625,Sants-Montjuïc,Sants - Badal,Madrid / Carles III,Sunday,July,30,16,Afternoon,1,0,1,2,2.129084,41.379363
+2017S001160,Les Corts,la Maternitat i Sant Ramon,COLLBLANC,Saturday,February,11,12,Morning,1,0,1,1,2.117648,41.375881
+2017S001042,Les Corts,les Corts,AV DIAGONAL / Av Sarrià,Wednesday,February,8,8,Morning,1,0,1,3,2.138825,41.391215
+2017S001656,Nou Barris,la Prosperitat,FLOR DE NEU,Tuesday,February,28,16,Afternoon,0,0,0,1,2.184439,41.444662
+2017S009745,Eixample,la Sagrada Família,Aragó / Cartagena,Thursday,November,23,17,Afternoon,1,0,1,2,2.182219,41.405191
+2017S009953,Eixample,la Dreta de l'Eixample,Nàpols / Provença,Wednesday,November,29,15,Afternoon,1,0,1,1,2.170933,41.401797
+2017S009557,Eixample,l'Antiga Esquerra de l'Eixample,Provença / Villarroel,Friday,November,17,15,Afternoon,1,0,1,1,2.152811,41.38818
+2017S007835,Sants-Montjuïc,Sants - Badal,Brasil / Roger,Thursday,September,21,20,Afternoon,1,0,1,2,2.129619,41.377885
+2017S009884,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,General Mitre,Monday,November,27,18,Afternoon,1,0,1,3,2.139043,41.403407
+2017S006698,Sarrià-Sant Gervasi,el Putxet i el Farró,Saragossa / Guillem Tell,Wednesday,August,2,16,Afternoon,2,0,2,2,2.148558,41.402448
+2017S000192,Gràcia,la Vila de Gràcia,TORRENT DE L'OLLA,Monday,January,9,13,Morning,1,0,1,3,2.152011,41.406837
+2017S001073,Nou Barris,la Trinitat Nova,RDA DALT (BESÒS),Wednesday,February,8,15,Afternoon,1,0,1,3,2.181684,41.446499
+2017S005825,Ciutat Vella,el Barri Gòtic,Colom / Portal de la Pau,Tuesday,July,4,21,Afternoon,1,0,1,1,2.178021,41.376113
+2017S005479,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Picasso,Thursday,June,22,17,Afternoon,1,0,1,2,2.185272,41.38572
+2017S006823,Ciutat Vella,la Barceloneta,B-10 (Besòs),Monday,August,7,18,Afternoon,3,0,3,4,2.18981,41.383749
+2017S004284,Eixample,la Nova Esquerra de l'Eixample,València / Calàbria,Sunday,May,14,13,Morning,2,0,2,2,2.150545,41.383079
+2017S003776,Les Corts,Pedralbes,Pius XII / Diagonal,Friday,April,28,8,Morning,1,0,1,2,2.123275,41.387282
+2017S004442,Horta-Guinardó,Sant Genís dels Agudells,Dalt (Besòs),Friday,May,19,16,Afternoon,2,0,2,2,2.141696,41.423822
+2017S000527,Horta-Guinardó,la Clota,GRANJA VELLA,Friday,January,20,9,Morning,1,0,1,2,2.145974,41.426974
+2017S000117,Sant Martí,Sant Martí de Provençals,SELVA DE MAR / Rbla Guipúscoa,Thursday,January,5,15,Afternoon,1,0,1,2,2.198144,41.417153
+2017S010408,Sant Martí,el Besòs i el Maresme,Prim / Llull,Saturday,December,16,17,Afternoon,1,0,1,2,2.217554,41.412645
+2017S003466,Eixample,l'Antiga Esquerra de l'Eixample,Diputació / Casanova,Tuesday,April,18,17,Afternoon,1,0,1,2,2.159596,41.384772
+2017S005646,Eixample,la Dreta de l'Eixample,Diputació,Wednesday,June,28,15,Afternoon,1,0,1,2,2.171074,41.393567
+2017S001019,Eixample,la Dreta de l'Eixample,BRUC / Consell de Cent,Tuesday,February,7,14,Afternoon,1,0,1,2,2.169762,41.39414
+2017S003579,Sant Andreu,Sant Andreu,Onze de Setembre,Friday,April,21,9,Morning,1,0,1,1,2.19216,41.430207
+2017S000380,Sant Andreu,Sant Andreu,GRAN SANT ANDREU / Palomar,Saturday,January,14,22,Night,2,0,2,2,2.18827,41.441985
+2017S000859,Ciutat Vella,la Barceloneta,RDA LITORAL(BESÒS),Tuesday,January,31,19,Afternoon,0,0,0,2,2.193895,41.386
+2017S006184,Eixample,la Sagrada Família,Aragó / Padilla,Saturday,July,15,21,Afternoon,1,0,1,2,2.180009,41.403541
+2017S006010,Eixample,el Fort Pienc,Corts Catalanes / Nàpols,Tuesday,July,11,3,Night,0,0,0,2,2.17782,41.396589
+2017S010572,Eixample,el Fort Pienc,Nàpols / Ausiàs Marc,Thursday,December,21,20,Afternoon,1,0,1,2,2.180212,41.394771
+2017S002374,Sants-Montjuïc,Hostafrancs,CREU COBERTA,Friday,March,24,15,Afternoon,1,0,1,1,2.143257,41.375148
+2017S005068,Sants-Montjuïc,Sants - Badal,Sants / Badal,Friday,June,9,16,Afternoon,1,0,1,2,2.130464,41.375494
+2017S009143,Sarrià-Sant Gervasi,Sarrià,General Vives / Borràs,Sunday,November,5,1,Night,0,0,0,1,2.117184,41.404013
+2017S001502,Gràcia,Vallcarca i els Penitents,CTRA B-20 (LLOBRE),Thursday,February,23,14,Afternoon,1,0,1,2,2.139803,41.419502
+2017S002502,Eixample,la Sagrada Família,AV DIAGONAL / Cartagena,Wednesday,March,29,7,Morning,2,0,2,2,2.184655,41.403205
+2017S005859,Eixample,la Dreta de l'Eixample,Roger de Llúria,Wednesday,July,5,17,Afternoon,1,0,1,2,2.172797,41.390285
+2017S000543,Sant Martí,el Camp de l'Arpa del Clot,MALLORCA,Friday,January,20,14,Afternoon,1,0,1,2,2.185983,41.41128
+2017S002100,Sant Martí,el Parc i la Llacuna del Poblenou,PAMPLONA / Pujades,Wednesday,March,15,21,Afternoon,1,0,1,2,2.192754,41.395653
+2017S003041,Eixample,l'Antiga Esquerra de l'Eixample,Aragó,Sunday,April,2,15,Afternoon,1,0,1,2,2.158878,41.387452
+2017S009848,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Llobregat),Sunday,November,26,17,Afternoon,1,0,1,2,2.144793,41.348579
+2017S008853,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Adrià / Santaló,Thursday,October,26,7,Morning,1,0,1,3,2.139013,41.401081
+2017S000722,Sarrià-Sant Gervasi,les Tres Torres,ALT DE GIRONELLA / Doctor Roux,Friday,January,27,15,Afternoon,1,0,1,2,2.131868,41.395974
+2017S007284,Sant Andreu,la Sagrera,Meridiana,Thursday,August,31,8,Morning,1,0,1,2,2.185629,41.425913

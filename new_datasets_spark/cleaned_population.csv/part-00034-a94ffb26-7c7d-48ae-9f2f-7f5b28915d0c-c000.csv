@@ -1,0 +1,75 @@
+Year,District_Code,District_Name,Neighborhood_Code,Neighborhood_Name,Gender,Age,Number
+2017,10,Sant Martí,71,Provençals del Poblenou,Female,25-29,629
+2017,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,35-39,1195
+2013,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Female,15-19,27
+2017,9,Sant Andreu,59,el Bon Pastor,Female,85-89,164
+2016,2,Eixample,9,la Nova Esquerra de l'Eixample,Male,5-9,1062
+2014,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Male,30-34,690
+2017,7,Horta-Guinardó,37,el Carmel,Female,40-44,1357
+2013,2,Eixample,10,Sant Antoni,Female,5-9,623
+2017,3,Sants-Montjuïc,14,la Font de la Guatlla,Male,75-79,159
+2013,3,Sants-Montjuïc,15,Hostafrancs,Female,15-19,277
+2016,9,Sant Andreu,58,Baró de Viver,Female,90-94,10
+2015,3,Sants-Montjuïc,15,Hostafrancs,Male,5-9,240
+2014,8,Nou Barris,53,la Trinitat Nova,Male,25-29,225
+2014,8,Nou Barris,51,Verdun,Female,50-54,427
+2013,3,Sants-Montjuïc,14,la Font de la Guatlla,Female,90-94,80
+2017,2,Eixample,6,la Sagrada Família,Male,40-44,1987
+2017,6,Gràcia,29,el Coll,Female,50-54,233
+2016,6,Gràcia,28,Vallcarca i els Penitents,Male,60-64,360
+2015,10,Sant Martí,73,la Verneda i la Pau,Male,75-79,523
+2016,7,Horta-Guinardó,40,Montbau,Female,25-29,115
+2015,9,Sant Andreu,61,la Sagrera,Male,15-19,565
+2017,7,Horta-Guinardó,33,el Baix Guinardó,Female,50-54,973
+2017,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Female,75-79,549
+2015,7,Horta-Guinardó,35,el Guinardó,Male,80-84,543
+2015,9,Sant Andreu,61,la Sagrera,Female,65-69,1029
+2016,7,Horta-Guinardó,38,la Teixonera,Male,65-69,238
+2015,2,Eixample,5,el Fort Pienc,Female,15-19,580
+2017,8,Nou Barris,52,la Prosperitat,Female,75-79,828
+2016,8,Nou Barris,54,Torre Baró,Male,30-34,87
+2015,8,Nou Barris,52,la Prosperitat,Female,15-19,412
+2014,3,Sants-Montjuïc,16,la Bordeta,Female,80-84,415
+2016,7,Horta-Guinardó,42,la Clota,Male,45-49,14
+2014,4,Les Corts,19,les Corts,Male,50-54,1358
+2013,9,Sant Andreu,57,la Trinitat Vella,Female,75-79,180
+2015,10,Sant Martí,68,el Poblenou,Female,30-34,1350
+2017,3,Sants-Montjuïc,16,la Bordeta,Female,0-4,354
+2013,6,Gràcia,30,la Salut,Male,30-34,554
+2013,3,Sants-Montjuïc,11,el Poble Sec,Male,40-44,1910
+2015,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Female,65-69,415
+2016,5,Sarrià-Sant Gervasi,23,Sarrià,Male,40-44,930
+2014,2,Eixample,7,la Dreta de l'Eixample,Male,85-89,288
+2015,4,Les Corts,20,la Maternitat i Sant Ramon,Female,75-79,545
+2013,8,Nou Barris,48,la Guineueta,Male,80-84,288
+2013,9,Sant Andreu,61,la Sagrera,Female,50-54,1098
+2017,9,Sant Andreu,62,el Congrés i els Indians,Female,75-79,286
+2017,7,Horta-Guinardó,43,Horta,Female,35-39,917
+2014,2,Eixample,5,el Fort Pienc,Female,30-34,1361
+2017,2,Eixample,9,la Nova Esquerra de l'Eixample,Male,50-54,1765
+2015,2,Eixample,9,la Nova Esquerra de l'Eixample,Male,55-59,1670
+2015,8,Nou Barris,49,Canyelles,Female,60-64,298
+2013,6,Gràcia,30,la Salut,Male,15-19,307
+2013,8,Nou Barris,46,el Turó de la Peira,Male,70-74,223
+2013,10,Sant Martí,73,la Verneda i la Pau,Female,0-4,453
+2017,8,Nou Barris,53,la Trinitat Nova,Male,15-19,188
+2015,7,Horta-Guinardó,42,la Clota,Female,10-14,6
+2017,7,Horta-Guinardó,37,el Carmel,Male,55-59,858
+2014,2,Eixample,5,el Fort Pienc,Female,90-94,300
+2016,8,Nou Barris,48,la Guineueta,Male,15-19,333
+2014,8,Nou Barris,49,Canyelles,Female,0-4,116
+2014,7,Horta-Guinardó,38,la Teixonera,Female,80-84,229
+2016,2,Eixample,6,la Sagrada Família,Male,15-19,928
+2016,10,Sant Martí,71,Provençals del Poblenou,Male,80-84,253
+2017,10,Sant Martí,64,el Camp de l'Arpa del Clot,Male,80-84,561
+2016,7,Horta-Guinardó,33,el Baix Guinardó,Female,0-4,364
+2013,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Male,55-59,1248
+2016,7,Horta-Guinardó,43,Horta,Male,65-69,563
+2013,2,Eixample,9,la Nova Esquerra de l'Eixample,Female,65-69,1841
+2014,9,Sant Andreu,60,Sant Andreu,Male,60-64,1734
+2013,8,Nou Barris,56,Vallbona,Male,85-89,5
+2015,9,Sant Andreu,60,Sant Andreu,Male,45-49,1956
+2013,9,Sant Andreu,58,Baró de Viver,Female,20-24,53
+2016,7,Horta-Guinardó,37,el Carmel,Male,>=95,11
+2013,4,Les Corts,21,Pedralbes,Female,>=95,29
+2014,10,Sant Martí,72,Sant Martí de Provençals,Female,>=95,37

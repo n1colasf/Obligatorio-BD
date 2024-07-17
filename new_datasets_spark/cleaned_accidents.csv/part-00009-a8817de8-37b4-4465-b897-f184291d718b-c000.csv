@@ -1,0 +1,69 @@
+Id,District_Name,Neighborhood_Name,Street,Weekday,Month,Day,Hour,Part_of_the_day,Mild_injuries,Serious_injuries,Victims,Vehicles_involved,Longitude,Latitude
+2017S000591,Sant Martí,Provençals del Poblenou,SELVA DE MAR / GV Corts Catalanes,Sunday,January,22,19,Afternoon,1,0,1,1,2.201634,41.414447
+2017S005486,Ciutat Vella,el Raval,Nou de la Rambla,Friday,June,23,1,Night,1,0,1,1,2.170537,41.375415
+2017S004227,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Ciutadella,Friday,May,12,14,Afternoon,0,0,0,1,2.186597,41.388181
+2017S005721,Ciutat Vella,la Barceloneta,Litoral / Ramon Trias Fargas,Friday,June,30,17,Afternoon,1,0,1,2,2.195364,41.386727
+2017S007496,Eixample,la Dreta de l'Eixample,Diagonal,Saturday,September,9,7,Morning,1,0,1,1,2.167862,41.398368
+2017S009904,Sants-Montjuïc,la Bordeta,Olzinelles,Tuesday,November,28,9,Morning,1,0,1,2,2.137661,41.370131
+2017S009537,Nou Barris,la Prosperitat,Meridiana / Conveni,Thursday,November,16,22,Night,1,0,1,2,2.186203,41.442952
+2017S005554,Nou Barris,Vilapicina i la Torre Llobeta,Escòcia / Malgrat,Monday,June,26,13,Morning,1,0,1,2,2.179842,41.428679
+2017S001316,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,ARIBAU,Thursday,February,16,20,Afternoon,1,0,1,2,2.149884,41.39539
+2017S009799,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Balmes / Diagonal,Friday,November,24,14,Afternoon,1,0,1,2,2.154711,41.395317
+2017S005583,Gràcia,el Coll,Torrent del Remei,Monday,June,26,22,Night,1,0,1,2,2.148223,41.41594
+2017S000624,Horta-Guinardó,el Baix Guinardó,RDA GUINARDÓ / Cartagena,Tuesday,January,24,6,Morning,1,0,1,1,2.1707,41.413929
+2017S009908,Ciutat Vella,la Barceloneta,Litoral (Llobregat),Tuesday,November,28,13,Morning,1,0,1,2,2.194967,41.387017
+2017S009706,Eixample,l'Antiga Esquerra de l'Eixample,Mallorca / Muntaner,Wednesday,November,22,14,Afternoon,2,0,2,1,2.156207,41.389042
+2017S001456,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,CTRA B-20 (LLOBRE),Tuesday,February,21,19,Afternoon,1,0,1,2,2.12895,41.412141
+2017S005983,Sant Martí,el Camp de l'Arpa del Clot,Meridiana / Aragó,Monday,July,10,7,Morning,1,0,1,2,2.186855,41.408523
+2017S004257,Sant Martí,el Clot,Independència / Consell de Cent,Saturday,May,13,12,Morning,1,0,1,2,2.185657,41.406065
+2017S001393,Sant Martí,el Parc i la Llacuna del Poblenou,MARINA,Sunday,February,19,22,Night,1,0,1,3,2.187844,41.394392
+2017S003544,Eixample,la Sagrada Família,València / Dos de Maig,Thursday,April,20,20,Afternoon,1,0,1,2,2.182242,41.4069
+2017S008258,Eixample,la Dreta de l'Eixample,Diagonal / Sant Joan,Friday,October,6,14,Afternoon,1,0,1,2,2.163656,41.397335
+2017S004408,Eixample,la Dreta de l'Eixample,Tetuan,Thursday,May,18,14,Afternoon,0,0,0,2,2.174613,41.395194
+2017S009411,Eixample,el Fort Pienc,Corts Catalanes,Monday,November,13,14,Afternoon,2,0,2,2,2.182474,41.40042
+2017S007838,Eixample,la Sagrada Família,Sicília,Friday,September,22,2,Night,0,0,0,1,2.173838,41.401169
+2017S000303,Eixample,la Sagrada Família,PADILLA / Indústria,Thursday,January,12,18,Afternoon,1,0,1,2,2.173242,41.408668
+2017S010200,Sants-Montjuïc,la Marina del Prat Vermell,Transversal 11,Thursday,December,7,15,Afternoon,1,0,1,2,2.115994,41.328539
+2017S001192,Sarrià-Sant Gervasi,les Tres Torres,VIA AUGUSTA / Hort de la Vila,Monday,February,13,12,Morning,1,0,1,1,2.124189,41.39959
+2017S001326,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,RDA DALT (BESÒS),Friday,February,17,11,Morning,5,0,5,5,2.131426,41.414127
+2017S009553,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,B-20 (Besòs),Friday,November,17,13,Morning,3,0,3,4,2.129604,41.412944
+2017S003218,Sarrià-Sant Gervasi,el Putxet i el Farró,General Mitre,Friday,April,7,8,Morning,3,0,3,2,2.146814,41.405903
+2017S008270,Horta-Guinardó,Horta,Llobregós / Ciències,Friday,October,6,21,Afternoon,2,0,2,1,2.158369,41.425562
+2017S007974,Nou Barris,Vilapicina i la Torre Llobeta,Meridiana,Wednesday,September,27,12,Morning,2,0,2,3,2.183647,41.42887
+2017S001795,Sant Martí,Sant Martí de Provençals,GV CORTS CATALANES,Saturday,March,4,19,Afternoon,1,0,1,3,2.202526,41.415779
+2017S010158,Sant Martí,Provençals del Poblenou,Bolívia / Bac de Roda,Tuesday,December,5,18,Afternoon,1,0,1,2,2.200608,41.410087
+2017S004187,Ciutat Vella,la Barceloneta,Pau Vila,Thursday,May,11,14,Afternoon,1,0,1,2,2.185762,41.381103
+2017S009166,Eixample,la Nova Esquerra de l'Eixample,Comte d'Urgell / València,Monday,November,6,11,Morning,1,0,1,1,2.153947,41.385623
+2017S001686,Eixample,l'Antiga Esquerra de l'Eixample,PROVENÇA / Aribau,Wednesday,March,1,13,Morning,1,0,1,2,2.156225,41.390736
+2017S008665,Eixample,la Nova Esquerra de l'Eixample,Corts Catalanes / Vilamarí,Friday,October,20,12,Morning,1,0,1,2,2.15178,41.377044
+2017S005025,Eixample,l'Antiga Esquerra de l'Eixample,Buenos Aires,Thursday,June,8,15,Afternoon,1,0,1,2,2.146972,41.392213
+2017S004092,Sants-Montjuïc,la Marina de Port,Foc / Can Clos,Tuesday,May,9,0,Night,2,0,2,2,2.145043,41.359377
+2017S000961,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,DOCTOR FLEMING,Saturday,February,4,22,Night,1,0,1,2,2.135089,41.392961
+2017S006633,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Aribau,Sunday,July,30,20,Afternoon,1,0,1,2,2.150067,41.395525
+2017S002542,Horta-Guinardó,Horta,TOSSA,Thursday,March,30,9,Morning,1,0,1,1,2.158655,41.428575
+2017S007317,Nou Barris,Vilapicina i la Torre Llobeta,Arnau d'Oms,Friday,September,1,13,Morning,1,0,1,2,2.177444,41.42843
+2017S001248,Sant Martí,el Clot,INDEPENDÈNCIA / Consell de Cent,Tuesday,February,14,19,Afternoon,1,0,1,2,2.185657,41.406065
+2017S003560,Sant Martí,el Clot,Aragó,Friday,April,21,12,Morning,1,0,1,2,2.1884,41.410069
+2017S007281,Sant Martí,Provençals del Poblenou,Prim / Corts Catalanes,Thursday,August,31,7,Morning,1,0,1,2,2.208398,41.419569
+2017S001119,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",TRAFALGAR / Lluís el Piadós,Friday,February,10,12,Morning,1,0,1,3,2.17846,41.390525
+2017S009351,Eixample,la Nova Esquerra de l'Eixample,Roma / Vilamarí,Saturday,November,11,16,Afternoon,1,0,1,1,2.145759,41.381586
+2017S009550,Eixample,la Dreta de l'Eixample,València / Catalunya,Friday,November,17,10,Morning,1,0,1,1,2.162304,41.391909
+2017S005212,Eixample,la Dreta de l'Eixample,Consell de Cent / Gràcia,Wednesday,June,14,13,Morning,1,0,1,2,2.165956,41.391288
+2017S007386,Sarrià-Sant Gervasi,Sarrià,Vallvidrera,Monday,September,4,16,Afternoon,1,0,1,1,2.114166,41.406581
+2017S001995,Sarrià-Sant Gervasi,les Tres Torres,VIA AUGUSTA / Rda General Mitre,Saturday,March,11,14,Afternoon,1,0,1,2,2.132853,41.397779
+2017S007011,Gràcia,el Camp d'en Grassot i Gràcia Nova,Indústria / Sardenya,Wednesday,August,16,10,Morning,2,0,2,2,2.169782,41.406071
+2017S007795,Horta-Guinardó,la Vall d'Hebron,Basses d'Horta,Wednesday,September,20,17,Afternoon,1,0,1,2,2.144747,41.425469
+2017S009397,Horta-Guinardó,el Baix Guinardó,Castillejos / Santa Carolina,Monday,November,13,9,Morning,1,0,1,2,2.171334,41.411821
+2017S003413,Nou Barris,Vilapicina i la Torre Llobeta,Cubelles,Saturday,April,15,4,Night,0,0,0,4,2.175332,41.426704
+2017S010594,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Jonqueres,Friday,December,22,13,Morning,2,0,2,2,2.174263,41.388031
+2017S007912,Eixample,el Fort Pienc,Consell de Cent / Diagonal,Sunday,September,24,16,Afternoon,1,0,1,2,2.178449,41.401264
+2017S001465,Eixample,la Sagrada Família,ST ANTONI M CLARET,Wednesday,February,22,9,Morning,1,0,1,2,2.172629,41.409774
+2017S005588,Sant Andreu,Sant Andreu,Palomar / Fernando Pessoa,Tuesday,June,27,7,Morning,1,0,1,2,2.193018,41.442271
+2017S003948,Eixample,la Sagrada Família,Lepant / Mallorca,Thursday,May,4,10,Morning,1,0,1,3,2.176692,41.40444
+2017S009944,Eixample,la Sagrada Família,Aragó / Sardenya,Wednesday,November,29,12,Morning,1,0,1,2,2.176586,41.400922
+2017S008732,Sants-Montjuïc,la Marina del Prat Vermell,Parc Logístic,Sunday,October,22,10,Morning,1,0,1,1,2.12264,41.339506
+2017S005978,Sants-Montjuïc,la Marina de Port,Zona Franca,Sunday,July,9,20,Afternoon,2,0,2,2,2.136883,41.363499
+2017S001223,Horta-Guinardó,el Carmel,LUGO,Tuesday,February,14,8,Morning,2,0,2,2,2.156459,41.423411
+2017S001026,Horta-Guinardó,el Guinardó,RBLA VOLART,Tuesday,February,7,17,Afternoon,1,0,1,1,2.17918,41.416042
+2017S010281,Nou Barris,la Prosperitat,Júlia,Tuesday,December,12,14,Afternoon,2,0,2,2,2.175248,41.438819
+2017S007347,Sant Andreu,Baró de Viver,Santa Coloma,Saturday,September,2,12,Morning,1,0,1,3,2.198406,41.447785
