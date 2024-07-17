@@ -128,7 +128,14 @@ junto con su nombre y enlace a su ubicación:
 
 **Parte 3**
 
-[Ver Dashboard](https://ubicacion_dashboard)
+[Ver Dashboard 1](https://public.tableau.com/views/OBLIGATORIOBIGDATA/PREGUNTA1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Ver Dashboard 2](https://public.tableau.com/views/OBLIGATORIOBIGDATA/PREGUNTA2?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Ver Dashboard 3](https://public.tableau.com/views/OBLIGATORIOBIGDATA/PREGUNTA3?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Ver Dashboard 4](https://public.tableau.com/views/OBLIGATORIOBIGDATA/PREGUNTA4?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 **Parte 4**
 
