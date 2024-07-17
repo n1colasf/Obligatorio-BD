@@ -1,4 +1,4 @@
-Code,Transport,Longitude,Latitude,Bus.Stop,District.Name,Neighborhood.Name
+Code,Transport,Longitude,Latitude,Bus Stop,District Name,Neighborhood Name
 K014,Day bus stop,2.171619,41.413744,BUS -192--,Horta-Guinardó,el Guinardó
 K014,Day bus stop,2.134902,41.420222,BUS -124--,Gràcia,Vallcarca i els Penitents
 K014,Day bus stop,2.162913,41.423187,BUS -117--,Horta-Guinardó,la Font d'en Fargues
@@ -214,7 +214,6 @@ K014,Day bus stop,2.184065,41.399536,BUS -62--,Eixample,el Fort Pienc
 K014,Day bus stop,2.17144,41.38857,BUS -52--,Eixample,la Dreta de l'Eixample
 K014,Day bus stop,2.191359,41.420891,BUS -34--,Sant Andreu,la Sagrera
 K014,Day bus stop,2.102895,41.411023,BUS -111--,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes"
-K015,Night bus stop,2.175509,41.463715,NITBUS -N3--,,
 K014,Day bus stop,2.188176,41.411243,BUS -33-34-B24-H10--,Sant Martí,el Clot
 K015,Night bus stop,2.186537,41.425411,NITBUS -N3--,Sant Andreu,la Sagrera
 K014,Day bus stop,2.115373,41.403855,BUS -130--,Sarrià-Sant Gervasi,Sarrià
@@ -268,7 +267,6 @@ K015,Night bus stop,2.177548,41.44159,NITBUS -N1--,Nou Barris,la Prosperitat
 K014,Day bus stop,2.158791,41.423159,BUS -39--,Horta-Guinardó,la Font d'en Fargues
 K014,Day bus stop,2.163539,41.410355,BUS -39--,Gràcia,el Camp d'en Grassot i Gràcia Nova
 K014,Day bus stop,2.17833,41.463629,BUS -104--,Nou Barris,Ciutat Meridiana
-K014,Day bus stop,2.175149,41.463839,BUS -104--,,
 K014,Day bus stop,2.140161,41.404832,BUS -131-V15--,Sarrià-Sant Gervasi,el Putxet i el Farró
 K015,Night bus stop,2.140161,41.404832,NITBUS -N5--,Sarrià-Sant Gervasi,el Putxet i el Farró
 K015,Night bus stop,2.152696,41.398859,NITBUS -N4--,Sarrià-Sant Gervasi,Sant Gervasi - Galvany
@@ -292,7 +290,6 @@ K014,Day bus stop,2.147827,41.424501,BUS -112-185--,Horta-Guinardó,la Teixonera
 K014,Day bus stop,2.116542,41.418285,BUS -111--,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes"
 K014,Day bus stop,2.158034,41.368425,BUS -55--,Sants-Montjuïc,el Poble-sec
 K014,Day bus stop,2.13479,41.427526,BUS -112--,Horta-Guinardó,Sant Genís dels Agudells
-K014,Day bus stop,2.132912,41.359207,BUS -79-125--,,
 K014,Day bus stop,2.127603,41.40346,BUS -75-H4--,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova
 K014,Day bus stop,2.114755,41.387711,BUS -33--,Les Corts,Pedralbes
 K014,Day bus stop,2.180776,41.415144,BUS -19-45-47-D50-191--,Sant Martí,el Camp de l'Arpa del Clot
@@ -442,7 +439,6 @@ K014,Day bus stop,2.160887,41.368583,BUS -BCTO--,Sants-Montjuïc,el Poble-sec
 K014,Day bus stop,2.203397,41.428289,BUS -60-B21--,Sant Martí,la Verneda i la Pau
 K014,Day bus stop,2.206311,41.426902,BUS -60-B21--,Sant Martí,la Verneda i la Pau
 K015,Night bus stop,2.209246,41.424754,NITBUS -N11-N2--,Sant Martí,la Verneda i la Pau
-K015,Night bus stop,2.209424,41.425163,NITBUS -N11-N2--,,
 K014,Day bus stop,2.166152,41.376475,BUS -D50--,Ciutat Vella,el Raval
 K014,Day bus stop,2.17345,41.402083,BUS -19-D50--,Eixample,la Sagrada Família
 K015,Night bus stop,2.142118,41.425139,NITBUS -N4--,Horta-Guinardó,Montbau
@@ -1203,7 +1199,6 @@ K014,Day bus stop,2.134996,41.394332,BUS -V9--,Sarrià-Sant Gervasi,Sant Gervasi
 K015,Night bus stop,2.134996,41.394332,NITBUS -N0--,Sarrià-Sant Gervasi,Sant Gervasi - Galvany
 K014,Day bus stop,2.153182,41.382709,BUS -V9--,Eixample,la Nova Esquerra de l'Eixample
 K014,Day bus stop,2.190785,41.403836,BUS -92--,Sant Martí,el Parc i la Llacuna del Poblenou
-K014,Day bus stop,2.055835,41.365599,BUS -78-L46-L52--,,
 K014,Day bus stop,2.178383,41.402389,BUS -33-34-B24-H10--,Eixample,la Sagrada Família
 K015,Night bus stop,2.210718,41.417436,NITBUS -N11--,Sant Martí,el Besòs i el Maresme
 K014,Day bus stop,2.19096,41.441253,BUS -H4-V31--,Sant Andreu,Sant Andreu
@@ -1231,11 +1226,9 @@ K014,Day bus stop,2.197064,41.443195,BUS -M28--,Sant Andreu,Baró de Viver
 K014,Day bus stop,2.150182,41.371129,BUS -BCTO--,Sants-Montjuïc,el Poble-sec
 K014,Day bus stop,2.136443,41.322382,BUS -PR4-88--,Sants-Montjuïc,la Marina del Prat Vermell
 K015,Night bus stop,2.204462,41.430572,NITBUS -N8--,Sant Andreu,el Bon Pastor
-K014,Day bus stop,2.209424,41.425163,BUS -B25-V33--,,
 K014,Day bus stop,2.164779,41.40329,BUS -114--,Gràcia,el Camp d'en Grassot i Gràcia Nova
 K014,Day bus stop,2.158645,41.429615,BUS -112--,Horta-Guinardó,Horta
 K014,Day bus stop,2.20794,41.415946,BUS -B25--,Sant Martí,el Besòs i el Maresme
-K014,Day bus stop,2.12449,41.373531,BUS -LH2--,,
 K015,Night bus stop,2.14183,41.396037,NITBUS -N7--,Sarrià-Sant Gervasi,Sant Gervasi - Galvany
 K014,Day bus stop,2.153483,41.437417,BUS -45-102-185--,Horta-Guinardó,Horta
 K014,Day bus stop,2.16318,41.403918,BUS -55-114--,Gràcia,el Camp d'en Grassot i Gràcia Nova
@@ -1377,7 +1370,6 @@ K014,Day bus stop,2.183903,41.429389,BUS -H6--,Sant Andreu,Sant Andreu
 K014,Day bus stop,2.1774,41.424783,BUS -47-H6-D40-D50--,Sant Andreu,el Congrés i els Indians
 K014,Day bus stop,2.204863,41.407623,BUS -7--,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou
 K014,Day bus stop,2.119849,41.377087,BUS -54-157-D20-H8--,Les Corts,la Maternitat i Sant Ramon
-K014,Day bus stop,2.175509,41.463715,BUS -62-76-104-83--,,
 K014,Day bus stop,2.20238,41.394264,BUS -H16-V27--,Sant Martí,el Poblenou
 K014,Day bus stop,2.15457,41.366033,BUS -125-150--,Sants-Montjuïc,el Poble-sec
 K014,Day bus stop,2.155344,41.366196,BUS -150--,Sants-Montjuïc,el Poble-sec
@@ -1426,8 +1418,6 @@ K014,Day bus stop,2.140587,41.417437,BUS -119--,Gràcia,Vallcarca i els Penitent
 K014,Day bus stop,2.155348,41.42356,BUS -119--,Horta-Guinardó,el Carmel
 K014,Day bus stop,2.167882,41.382646,BUS -120--,Ciutat Vella,el Raval
 K014,Day bus stop,2.162903,41.373163,BUS -121--,Sants-Montjuïc,el Poble-sec
-K014,Day bus stop,2.114631,41.375908,BUS -54-157-D20-H8--,,
-K015,Night bus stop,2.114631,41.375908,NITBUS -N14-N3--,,
 K015,Night bus stop,2.166742,41.401252,NITBUS -N4--,Eixample,la Dreta de l'Eixample
 K015,Night bus stop,2.194603,41.383184,NITBUS -N8-N28--,Ciutat Vella,la Barceloneta
 K015,Night bus stop,2.174081,41.400719,NITBUS -N1-N7--,Eixample,la Sagrada Família
@@ -1522,7 +1512,6 @@ K014,Day bus stop,2.118711,41.378955,BUS -54--,Les Corts,la Maternitat i Sant Ra
 K014,Day bus stop,2.170495,41.43227,BUS -122--,Nou Barris,el Turó de la Peira
 K014,Day bus stop,2.16397,41.440235,BUS -122-185--,Nou Barris,la Guineueta
 K014,Day bus stop,2.133004,41.411259,BUS -123--,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova
-K015,Night bus stop,2.211892,41.421783,NITBUS -N2--,,
 K014,Day bus stop,2.11792,41.380951,BUS -54--,Les Corts,la Maternitat i Sant Ramon
 K014,Day bus stop,2.187541,41.370768,BUS -39-V15--,Ciutat Vella,la Barceloneta
 K014,Day bus stop,2.202422,41.428173,BUS -B24-V31--,Sant Martí,la Verneda i la Pau
@@ -1565,7 +1554,6 @@ K014,Day bus stop,2.183794,41.420516,BUS -191--,Sant Andreu,Navas
 K014,Day bus stop,2.141697,41.369633,BUS -91-115--,Sants-Montjuïc,la Bordeta
 K014,Day bus stop,2.177138,41.374694,BUS -D20-H14--,Ciutat Vella,el Raval
 K014,Day bus stop,2.189656,41.447987,BUS -11--,Sant Andreu,la Trinitat Vella
-K014,Day bus stop,2.120534,41.425856,BUS -111--,,
 K014,Day bus stop,2.190719,41.448759,BUS -11-V31--,Sant Andreu,la Trinitat Vella
 K014,Day bus stop,2.184629,41.427655,BUS -62-96-V29--,Sant Andreu,la Sagrera
 K014,Day bus stop,2.131289,41.417944,BUS -124--,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova
@@ -1633,7 +1621,6 @@ K014,Day bus stop,2.166617,41.359021,BUS -88--,Sants-Montjuïc,la Marina del Pra
 K014,Day bus stop,2.140581,41.323916,BUS -88--,Sants-Montjuïc,la Marina del Prat Vermell
 K014,Day bus stop,2.219918,41.412137,BUS -B23-H16--,Sant Martí,el Besòs i el Maresme
 K014,Day bus stop,2.219048,41.411892,BUS -B20--,Sant Martí,el Besòs i el Maresme
-K015,Night bus stop,2.055835,41.365599,NITBUS -N15--,,
 K014,Day bus stop,2.146804,41.413501,BUS -87--,Gràcia,Vallcarca i els Penitents
 K015,Night bus stop,2.15262,41.422432,NITBUS -N4--,Horta-Guinardó,el Carmel
 K014,Day bus stop,2.126679,41.403198,BUS -V9--,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova
@@ -2408,7 +2395,6 @@ K014,Day bus stop,2.154602,41.376656,BUS -V9--,Eixample,Sant Antoni
 K015,Night bus stop,2.147794,41.381869,NITBUS -N0--,Eixample,la Nova Esquerra de l'Eixample
 K014,Day bus stop,2.130285,41.399528,BUS -V9--,Sarrià-Sant Gervasi,les Tres Torres
 K014,Day bus stop,2.161686,41.377587,BUS -55-H16--,Eixample,Sant Antoni
-K014,Day bus stop,2.221753,41.413193,BUS -H16-V33--,,
 K014,Day bus stop,2.212484,41.417847,BUS -V33--,Sant Martí,el Besòs i el Maresme
 K014,Day bus stop,2.13658,41.410955,BUS -92--,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova
 K014,Day bus stop,2.196631,41.407937,BUS -192--,Sant Martí,Provençals del Poblenou
@@ -2494,7 +2480,6 @@ K014,Day bus stop,2.095205,41.415942,BUS -118--,Sarrià-Sant Gervasi,"Vallvidrer
 K014,Day bus stop,2.095071,41.417878,BUS -118--,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes"
 K014,Day bus stop,2.097879,41.418436,BUS -118-128--,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes"
 K014,Day bus stop,2.096893,41.419995,BUS -128--,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes"
-K014,Day bus stop,2.095815,41.433073,BUS -128--,,
 K014,Day bus stop,2.126505,41.410468,BUS -60-123-196--,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova
 K014,Day bus stop,2.14186,41.382935,BUS -78-V7--,Sants-Montjuïc,Sants
 K015,Night bus stop,2.165584,41.401322,NITBUS -N6--,Gràcia,el Camp d'en Grassot i Gràcia Nova
@@ -2805,7 +2790,6 @@ K014,Day bus stop,2.198592,41.416887,BUS -V29--,Sant Martí,Sant Martí de Prove
 K014,Day bus stop,2.189585,41.403127,BUS -92-192--,Sant Martí,el Parc i la Llacuna del Poblenou
 K014,Day bus stop,2.197236,41.402129,BUS -H14--,Sant Martí,el Poblenou
 K014,Day bus stop,2.160336,41.376564,BUS -13--,Eixample,Sant Antoni
-K014,Day bus stop,2.217777,41.418108,BUS -V33--,,
 K015,Night bus stop,2.149856,41.388859,NITBUS -N12--,Eixample,l'Antiga Esquerra de l'Eixample
 K014,Day bus stop,2.118455,41.334787,BUS -21--,Sants-Montjuïc,la Marina del Prat Vermell
 K014,Day bus stop,2.173857,41.415839,BUS -H6--,Horta-Guinardó,el Guinardó
