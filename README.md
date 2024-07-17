@@ -132,7 +132,7 @@ junto con su nombre y enlace a su ubicación:
 
 **Parte 4**
 
-[Ver Diagrama](/analisis/Parte%204.png)
+[Ver Modelado de Datos](/analisis/Parte4_Hive.ipynb)
 
 <br />
 <hr>
