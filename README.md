@@ -128,11 +128,19 @@ junto con su nombre y enlace a su ubicación:
 
 **Parte 3**
 
+<img width="1296" alt="DASHBOARD PREGUNTA 1" src="https://github.com/user-attachments/assets/ea5f4a43-62f1-47b9-901d-25744cf09430">
+
 [Ver Dashboard 1](https://public.tableau.com/views/OBLIGATORIOBIGDATA/PREGUNTA1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+<img width="1285" alt="DASHBOARD PREGUNTA 2" src="https://github.com/user-attachments/assets/dbedb9ab-a87a-4908-bfa4-bd8afd8d05de">
 
 [Ver Dashboard 2](https://public.tableau.com/views/OBLIGATORIOBIGDATA/PREGUNTA2?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+<img width="1257" alt="DASHBOARD PREGUNTA 3" src="https://github.com/user-attachments/assets/0a63bbd4-09ff-4e13-9792-6412e0a5c5ae">
+
 [Ver Dashboard 3](https://public.tableau.com/views/OBLIGATORIOBIGDATA/PREGUNTA3?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+<img width="1254" alt="DASHBOARD PREGUNTA 4" src="https://github.com/user-attachments/assets/1b2cc080-4518-488c-9229-353ca67682ce">
 
 [Ver Dashboard 4](https://public.tableau.com/views/OBLIGATORIOBIGDATA/PREGUNTA4?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
