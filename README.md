@@ -72,35 +72,37 @@ Hive, como lo modelaría, que tablas crearía y de que tipo (externas, internas)
 A continuación se muestra una tabla con los 17 datasets utilizados en el análisis de datos de la ciudad de Barcelona,
 junto con su nombre y enlace a su ubicación:
 
-| Nombre del dataset                    | Enlace                                                          | Dataset limpiado                                |
-|---------------------------------------|-----------------------------------------------------------------|-------------------------------------------------|
-| Accidents 2017                        | [Enlace 1](/datasets/accidents_2017.csv)                        | [Nuevo 1](/new_datasets/new_accidents_2017.csv) |
-| Air quality Nov2017                   | [Enlace 2](/datasets/air_quality_Nov2017.csv)                   |                                                 |
-| Air stations Nov2017                  | [Enlace 3](/datasets/air_stations_Nov2017.csv)                  |                                                 |
-| Births                                | [Enlace 4](/datasets/births.csv)                                |                                                 |
-| Bus stops                             | [Enlace 5](/datasets/bus_stops.csv)                             |                                                 |
-| Deaths                                | [Enlace 6](/datasets/deaths.csv)                                |                                                 |
-| Immigrants by nationality             | [Enlace 7](/datasets/immigrants_by_nationality.csv)             |                                                 |
-| Immigrants emigrants by age           | [Enlace 8](/datasets/immigrants_emigrants_by_age.csv)           |                                                 |
-| Immigrants emigrants by destination   | [Enlace 9](/datasets/immigrants_emigrants_by_destination.csv)   |                                                 |
-| Immigrants emigrants by destination 2 | [Enlace 10](/datasets/immigrants_emigrants_by_destination2.csv) |                                                 |
-| Immigrants emigrants by sex           | [Enlace 11](/datasets/immigrants_emigrants_by_sex.csv)          |                                                 |
-| Life expectancy                       | [Enlace 12](/datasets/life_expectancy.csv)                      |                                                 |
-| Most frequent baby names              | [Enlace 13](/datasets/most_frequent_baby_names.csv)             |                                                 |
-| Most frequent names                   | [Enlace 14](/datasets/most_frequent_names.csv)                  |                                                 |
-| Population                            | [Enlace 15](/datasets/population.csv)                           |                                                 |
-| Transports                            | [Enlace 16](/datasets/transports.csv)                           |                                                 |
-| Unemployment                          | [Enlace 17](/datasets/unemployment.csv)                         |                                                 |
+| Nombre del dataset                    | Enlace                                                          | Dataset limpiado                                          | Para Tableau                                                   |
+|---------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------|
+| Accidents 2017                        | [Enlace 1](/datasets/accidents_2017.csv)                        | [Nuevo 1](/new_datasets/new_accidents_2017.csv)           |                                                                |
+| Air quality Nov 2017                  | [Enlace 2](/datasets/air_quality_Nov2017.csv)                   | [Nuevo 2](/new_datasets/new_air_quality.csv)              |                                                                |
+| Air stations Nov 2017                 | [Enlace 3](/datasets/air_stations_Nov2017.csv)                  | [Nuevo 3](/new_datasets/new_air_stations.csv)             |                                                                |
+| Births                                | [Enlace 4](/datasets/births.csv)                                | [Nuevo 4](/new_datasets/new_births.csv)                   |                                                                |
+| Bus stops                             | [Enlace 5](/datasets/bus_stops.csv)                             | [Nuevo 5](/new_datasets/new_bus_stops.csv)                | [Tableau 5](/new_datasets/tableau/new_bus_stops_tableau.csv)   |
+| Deaths                                | [Enlace 6](/datasets/deaths.csv)                                | [Nuevo 6](/new_datasets/new_deaths.csv)                   | [Tableau 6](/new_datasets/tableau/new_deaths_tableau.csv)      |
+| Immigrants by nationality             | [Enlace 7](/datasets/immigrants_by_nationality.csv)             | [Nuevo 7](/new_datasets/new_immigrants_nationality.csv)   |                                                                |
+| Immigrants emigrants by age           | [Enlace 8](/datasets/immigrants_emigrants_by_age.csv)           | [Nuevo 8](/new_datasets/new_immigrants_age.csv)           |                                                                |
+| Immigrants emigrants by destination   | [Enlace 9](/datasets/immigrants_emigrants_by_destination.csv)   | [Nuevo 9](/new_datasets/new_immigrants_destination1.csv)  |                                                                |
+| Immigrants emigrants by destination 2 | [Enlace 10](/datasets/immigrants_emigrants_by_destination2.csv) | [Nuevo 10](/new_datasets/new_immigrants_destination2.csv) |                                                                |
+| Immigrants emigrants by sex           | [Enlace 11](/datasets/immigrants_emigrants_by_sex.csv)          | [Nuevo 11](/new_datasets/new_immigrants_sex.csv)          |
+| Life expectancy                       | [Enlace 12](/datasets/life_expectancy.csv)                      | [Nuevo 12](/new_datasets/new_life_expectancy.csv)         |                                                                |
+| Most frequent baby names              | [Enlace 13](/datasets/most_frequent_baby_names.csv)             | [Nuevo 13](/new_datasets/new_baby_names.csv)              |                                                                |
+| Most frequent names                   | [Enlace 14](/datasets/most_frequent_names.csv)                  | [Nuevo 14](/new_datasets/new_frequent_names.csv)          |                                                                |
+| Population                            | [Enlace 15](/datasets/population.csv)                           | [Nuevo 15](/new_datasets/new_population.csv)              | [Tableau 15](/new_datasets/tableau/new_population_tableau.csv) |
+| Transports                            | [Enlace 16](/datasets/transports.csv)                           | [Nuevo 16](/new_datasets/new_transports.csv)              | [Tableau 16](/new_datasets/tableau/new_transports_tableau.csv) |
+| Unemployment                          | [Enlace 17](/datasets/unemployment.csv)                         | [Nuevo 17](/new_datasets/new_unemployment.csv)            |                                                                |
 
 <br />
 <hr>
 
 ### Preguntas
 
-1. ¿Cuál es la relación entre las paradas de autobús y la densidad de población en diferentes barrios?, ¿influye el transporte publico?
+1. ¿Cuál es la relación entre las paradas de autobús y la densidad de población en diferentes barrios?, ¿influye el
+   transporte publico?
 2. ¿Cuál es la nacionalidad más común entre los inmigrantes en Barcelona?
 3. ¿cómo varía la cantidad de nacimientos por género con el tiempo en diferentes distritos y barrios de Barcelona?
-4. ¿Cuál es la relación entre la cantidad de accidentes y la densidad de población en diferentes barrios?, ¿influye la calidad del aire?
+4. ¿Cuál es la relación entre la cantidad de accidentes y la densidad de población en diferentes barrios?, ¿influye la
+   calidad del aire?
 5. ¿Cómo varía la esperanza de vida en diferentes barrios de Barcelona?
 6. ¿Cuál es la relación entre la cantidad de inmigrantes y los niveles de desempleo en los diferentes barrios?
 7. ¿Cuales son los nombres mas populares en Barcelona?, ¿influye la inmigración?
@@ -135,7 +137,6 @@ junto con su nombre y enlace a su ubicación:
 ### Conclusiones
 
 En este trabajo se analizaron los datos de la ciudad de Barcelona, se realizaron visualizaciones y se respondieron
-preguntas planteadas. Se utilizó tanto Python con Pandas como Spark para el análisis de los datos. Se creó un dashboard
-en Tableau Public y se modelaron los datos en Hive.
-
-Se puede concluir que...
+preguntas planteadas. Se utilizó tanto Python con Pandas y otras librerias, asi como también Spark para el análisis de
+los datos. Se crearon dashboards
+en Tableau Public y se presentó un modelado teórico de los datos en Hive.
